@@ -1,0 +1,5147 @@
+Contiene coordinación: left and short 3rd and 4th metacarpals
+left left ADJ JJ amod xxxx True False metacarpals
+None
+and and CCONJ CC cc xxx True True left
+None
+short short ADJ JJ conj xxxx True False left
+None
+3rd 3rd ADJ JJ conj dxx False False left
+None
+and and CCONJ CC cc xxx True True 3rd
+None
+4th 4th ADJ JJ conj dxx False False 3rd
+None
+metacarpals metacarpal NOUN NNS pobj xxxx True False on
+None
+Contiene coordinación: left and right anterior oblique images
+left left ADJ JJ conj xxxx True False anterior
+None
+and and CCONJ CC cc xxx True True left
+None
+right right ADJ JJ amod xxxx True False images
+None
+anterior anterior ADJ JJ amod xxxx True False images
+None
+oblique oblique ADJ JJ amod xxxx True False images
+None
+images image NOUN NNS nsubjpass xxxx True False acquired
+None
+Contiene coordinación: pale, multiple old and new bruises
+pale pale ADJ JJ ROOT xxxx True False pale
+None
+, , PUNCT , punct , False False pale
+None
+multiple multiple ADJ JJ amod xxxx True False bruises
+None
+old old ADJ JJ amod xxx True False bruises
+None
+and and CCONJ CC cc xxx True True old
+None
+new new ADJ JJ conj xxx True False old
+None
+bruises bruise NOUN NNS conj xxxx True False pale
+None
+Contiene coordinación: pruritic, flat lesions
+pruritic pruritic ADJ JJ amod xxxx True False lesions
+None
+, , PUNCT , punct , False False lesions
+None
+flat flat ADJ JJ amod xxxx True False lesions
+None
+lesions lesion NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: intra-axial or extra-axial space
+intra intra ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False axial
+None
+axial axial ADJ JJ amod xxxx True False axial
+None
+or or CCONJ CC dep xx True True -
+None
+extra extra ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False axial
+None
+axial axial ADJ JJ amod xxxx True False space
+None
+space space NOUN NN pobj xxxx True False into
+None
+Contiene coordinación: left and probable r lung surgery w/
+left leave VERB VBN amod xxxx True False surgery
+None
+and and CCONJ CC cc xxx True True left
+None
+probable probable ADJ JJ conj xxxx True False left
+None
+r r NOUN NN compound x True False surgery
+None
+lung lung NOUN NN compound xxxx True False surgery
+None
+surgery surgery NOUN NN compound xxxx True False hyperinflation
+None
+w/ w/ PROPN NNP compound x/ False False hyperinflation
+None
+Contiene coordinación: normal costovertebral and diaphragmatic muscle excursion
+normal normal ADJ JJ amod xxxx True False excursion
+None
+costovertebral costovertebral ADJ JJ amod xxxx True False excursion
+None
+and and CCONJ CC cc xxx True True costovertebral
+None
+diaphragmatic diaphragmatic ADJ JJ conj xxxx True False costovertebral
+None
+muscle muscle NOUN NN compound xxxx True False excursion
+None
+excursion excursion NOUN NN pobj xxxx True False with
+None
+Contiene coordinación: benign, short term follow
+benign benign ADJ JJ amod xxxx True False follow
+None
+, , PUNCT , punct , False False follow
+None
+short short ADJ JJ amod xxxx True False term
+None
+term term NOUN NN nsubj xxxx True False follow
+None
+follow follow VERB VB nsubjpass xxxx True False recommended
+None
+Contiene coordinación: proximal and mid tibia
+proximal proximal ADJ JJ amod xxxx True False tibia
+None
+and and CCONJ CC cc xxx True True proximal
+None
+mid mid ADJ JJ conj xxx True False proximal
+None
+tibia tibia NOUN NN dobj xxxx True False involving
+None
+Contiene coordinación: saturated and non-enhancing lesion
+saturated saturated ADJ JJ amod xxxx True False lesion
+None
+and and CCONJ CC cc xxx True True saturated
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False enhancing
+None
+enhancing enhancing ADJ JJ amod xxxx True False lesion
+None
+lesion lesion NOUN NN appos xxxx True False hyperintense
+None
+Contiene coordinación: left and mild bilateral facet joint arthropathy
+left left ADJ JJ amod xxxx True False arthropathy
+None
+and and CCONJ CC cc xxx True True left
+None
+mild mild ADJ JJ conj xxxx True False left
+None
+bilateral bilateral ADJ JJ amod xxxx True False facet
+None
+facet facet NOUN NN conj xxxx True False left
+None
+joint joint NOUN NN amod xxxx True False arthropathy
+None
+arthropathy arthropathy NOUN NN pobj xxxx True False to
+None
+Contiene coordinación: main, lobar and segmental branches
+main main ADJ JJ amod xxxx True False branches
+None
+, , PUNCT , punct , False False main
+None
+lobar lobar ADJ JJ conj xxxx True False main
+None
+and and CCONJ CC cc xxx True True lobar
+None
+segmental segmental ADJ JJ conj xxxx True False lobar
+None
+branches branch NOUN NNS pobj xxxx True False within
+None
+Contiene coordinación: enlarged mediastinal and bilateral hilar lymph nodes
+enlarged enlarged ADJ JJ amod xxxx True False nodes
+None
+mediastinal mediastinal ADJ JJ amod xxxx True False lymph
+None
+and and CCONJ CC cc xxx True True mediastinal
+None
+bilateral bilateral ADJ JJ conj xxxx True False mediastinal
+None
+hilar hilar ADJ JJ conj xxxx True False mediastinal
+None
+lymph lymph NOUN NN compound xxxx True False nodes
+None
+nodes node NOUN NNS pobj xxxx True False with
+None
+Contiene coordinación: acute or subacute hp compared
+acute acute ADJ JJ amod xxxx True False hp
+None
+or or CCONJ CC cc xx True True acute
+None
+subacute subacute ADJ JJ conj xxxx True False acute
+None
+hp hp NOUN NN pobj xx True False in
+None
+compared compare VERB VBN prep xxxx True False are
+None
+Contiene coordinación: subacute and acute phase hp
+subacute subacute ADJ JJ amod xxxx True False phase
+None
+and and CCONJ CC cc xxx True True subacute
+None
+acute acute ADJ JJ conj xxxx True False subacute
+None
+phase phase NOUN NN dobj xxxx True False distributes
+None
+hp hp PROPN NNP nsubj xx True False distributes
+None
+Contiene coordinación: symmetric hilar and medastinal lymph node enlargement
+symmetric symmetric ADJ JJ amod xxxx True False enlargement
+None
+hilar hilar ADJ JJ amod xxxx True False node
+None
+and and CCONJ CC cc xxx True True hilar
+None
+medastinal medastinal ADJ JJ conj xxxx True False hilar
+None
+lymph lymph NOUN NN compound xxxx True False node
+None
+node node NOUN NN compound xxxx True False enlargement
+None
+enlargement enlargement NOUN NN pobj xxxx True False for
+None
+Contiene coordinación: cervical and lumbar spine
+cervical cervical ADJ JJ amod xxxx True False spine
+None
+and and CCONJ CC cc xxx True True cervical
+None
+lumbar lumbar ADJ JJ conj xxxx True False cervical
+None
+spine spine NOUN NN pobj xxxx True False to
+None
+Contiene coordinación: cervical and lumbar radiculopathy
+cervical cervical ADJ JJ amod xxxx True False radiculopathy
+None
+and and CCONJ CC cc xxx True True cervical
+None
+lumbar lumbar NOUN NN conj xxxx True False cervical
+None
+radiculopathy radiculopathy NOUN NN pobj xxxx True False for
+None
+Contiene coordinación: benign peripheral and septal enhancement
+benign benign ADJ JJ amod xxxx True False enhancement
+None
+peripheral peripheral ADJ JJ amod xxxx True False enhancement
+None
+and and CCONJ CC cc xxx True True peripheral
+None
+septal septal ADJ JJ conj xxxx True False peripheral
+None
+enhancement enhancement NOUN NN dobj xxxx True False confirm
+None
+Contiene coordinación: idiopathic, benign mucinous soft tissue mass occurring
+idiopathic idiopathic ADJ JJ amod xxxx True False mass
+None
+, , PUNCT , punct , False False mass
+None
+benign benign ADJ JJ amod xxxx True False mucinous
+None
+mucinous mucinous ADJ JJ amod xxxx True False mass
+None
+soft soft ADJ JJ amod xxxx True False tissue
+None
+tissue tissue NOUN NN compound xxxx True False mass
+None
+mass mass NOUN NN attr xxxx True False is
+None
+occurring occur VERB VBG acl xxxx True False mass
+None
+Contiene coordinación: periarticular and other focal soft tissue calcifications
+periarticular periarticular ADJ JJ nsubj xxxx True False is
+None
+and and CCONJ CC cc xxx True True periarticular
+None
+other other ADJ JJ amod xxxx True True calcifications
+None
+focal focal ADJ JJ amod xxxx True False calcifications
+None
+soft soft ADJ JJ amod xxxx True False tissue
+None
+tissue tissue NOUN NN compound xxxx True False calcifications
+None
+calcifications calcification NOUN NNS conj xxxx True False periarticular
+None
+Contiene coordinación: uniform, smooth and glistening, red surface
+uniform uniform ADJ JJ pobj xxxx True False by
+None
+, , PUNCT , punct , False False uniform
+None
+smooth smooth ADJ JJ conj xxxx True False uniform
+None
+and and CCONJ CC cc xxx True True smooth
+None
+glistening glistening ADJ JJ conj xxxx True False smooth
+None
+, , PUNCT , punct , False False surface
+None
+red red ADJ JJ amod xxx True False surface
+None
+surface surface NOUN NN nmod xxxx True False cm
+None
+Contiene coordinación: anti-hypertensive and supportive treatment
+anti anti ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False hypertensive
+None
+hypertensive hypertensive ADJ JJ amod xxxx True False treatment
+None
+and and CCONJ CC cc xxx True True hypertensive
+None
+supportive supportive ADJ JJ conj xxxx True False hypertensive
+None
+treatment treatment NOUN NN ROOT xxxx True False treatment
+None
+Contiene coordinación: general, closed head injury pts
+general general ADJ JJ amod xxxx True False in
+None
+, , PUNCT , punct , False False closed
+None
+closed closed ADJ JJ ROOT xxxx True False closed
+None
+head head NOUN NN compound xxxx True False pts
+None
+injury injury NOUN NN compound xxxx True False pts
+None
+pts pts NOUN NN dobj xxx True False closed
+None
+Contiene coordinación: pulmonary and extra-pulmonary sites
+pulmonary pulmonary ADJ JJ amod xxxx True False sites
+None
+and and CCONJ CC cc xxx True True pulmonary
+None
+extra extra ADJ JJ amod xxxx True False pulmonary
+None
+- - ADJ JJ punct - False False pulmonary
+None
+pulmonary pulmonary ADJ JJ conj xxxx True False pulmonary
+None
+sites site NOUN NNS pobj xxxx True False to
+None
+Contiene coordinación: pathognomonic or suggestive blood studies
+pathognomonic pathognomonic ADJ JJ amod xxxx True False studies
+None
+or or CCONJ CC cc xx True True pathognomonic
+None
+suggestive suggestive ADJ JJ conj xxxx True False pathognomonic
+None
+blood blood NOUN NN compound xxxx True False studies
+None
+studies study NOUN NNS nsubjpass xxxx True False used
+None
+Contiene coordinación: fecal or urinary incontinence
+fecal fecal ADJ JJ amod xxxx True False incontinence
+None
+or or CCONJ CC cc xx True True fecal
+None
+urinary urinary ADJ JJ conj xxxx True False fecal
+None
+incontinence incontinence NOUN NN conj xxxx True False anesthesia
+None
+Contiene coordinación: normal cutaneous and mucocutaneous barriers
+normal normal ADJ JJ amod xxxx True False barriers
+None
+cutaneous cutaneous ADJ JJ amod xxxx True False barriers
+None
+and and CCONJ CC cc xxx True True cutaneous
+None
+mucocutaneous mucocutaneous ADJ JJ conj xxxx True False cutaneous
+None
+barriers barrier NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: clinical and radiological presentations
+clinical clinical ADJ JJ amod xxxx True False presentations
+None
+and and CCONJ CC cc xxx True True clinical
+None
+radiological radiological ADJ JJ conj xxxx True False clinical
+None
+presentations presentation NOUN NNS nsubj xxxx True False include
+None
+Contiene coordinación: communicating or non-communicating rudimentary horn
+communicating communicate VERB VBG amod xxxx True False horn
+None
+or or CCONJ CC cc xx True True communicating
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False communicating
+None
+communicating communicate VERB VBG amod xxxx True False horn
+None
+rudimentary rudimentary ADJ JJ amod xxxx True False horn
+None
+horn horn NOUN NN conj xxxx True False uterus
+None
+Contiene coordinación: dilated left and right atria
+dilated dilated ADJ JJ amod xxxx True False left
+None
+left left ADJ JJ appos xxxx True False mode
+None
+and and CCONJ CC cc xxx True True left
+None
+right right ADJ JJ amod xxxx True False atria
+None
+atria atria NOUN NN npadvmod xxxx True False moderate
+None
+Contiene coordinación: present, direct cholangiography
+present present ADJ JJ acomp xxxx True False is
+None
+, , PUNCT , punct , False False is
+None
+direct direct ADJ JJ amod xxxx True False cholangiography
+None
+cholangiography cholangiography NOUN NN nsubj xxxx True False is
+None
+Contiene coordinación: invasive and angiography done
+invasive invasive ADJ JJ acomp xxxx True False being
+None
+and and CCONJ CC cc xxx True True being
+None
+angiography angiography NOUN NN conj xxxx True False being
+None
+done do VERB VBN acl xxxx True True benefit
+None
+Contiene coordinación: anterior and posterior delayed whole body images
+anterior anterior ADJ JJ amod xxxx True False images
+None
+and and CCONJ CC cc xxx True True anterior
+None
+posterior posterior ADJ JJ conj xxxx True False anterior
+None
+delayed delay VERB VBN amod xxxx True False images
+None
+whole whole ADJ JJ amod xxxx True True images
+None
+body body NOUN NN compound xxxx True False images
+None
+images image NOUN NNS nsubj xxxx True False demonstrate
+None
+Contiene coordinación: dilated large and small bowel
+dilated dilated ADJ JJ amod xxxx True False bowel
+None
+large large ADJ JJ amod xxxx True False bowel
+None
+and and CCONJ CC cc xxx True True large
+None
+small small ADJ JJ conj xxxx True False large
+None
+bowel bowel NOUN NN pobj xxxx True False with
+None
+Contiene coordinación: 1st or 2nd day
+1st 1st ADJ JJ amod dxx False False day
+None
+or or CCONJ CC cc xx True True 1st
+None
+2nd 2nd ADJ JJ conj dxx False False 1st
+None
+day day NOUN NN pobj xxx True False in
+None
+Contiene coordinación: necrotic, distended bowel followed
+necrotic necrotic ADJ JJ amod xxxx True False bowel
+None
+, , PUNCT , punct , False False bowel
+None
+distended distended ADJ JJ amod xxxx True False bowel
+None
+bowel bowel NOUN NN pobj xxxx True False of
+None
+followed follow VERB VBN acl xxxx True False resection
+None
+Contiene coordinación: left sided upper and lower extremity weakness
+left left ADJ JJ amod xxxx True False weakness
+None
+sided sided ADJ JJ amod xxxx True False weakness
+None
+upper upper ADJ JJ amod xxxx True False weakness
+None
+and and CCONJ CC cc xxx True True upper
+None
+lower low ADJ JJR conj xxxx True False upper
+None
+extremity extremity NOUN NN compound xxxx True False weakness
+None
+weakness weakness NOUN NN pobj xxxx True False with
+None
+Contiene coordinación: left median and ulnar nerves
+left left ADJ JJ conj xxxx True False responses
+None
+median median ADJ JJ amod xxxx True False nerves
+None
+and and CCONJ CC cc xxx True True median
+None
+ulnar ulnar ADJ JJ amod xxxx True False nerves
+None
+nerves nerve NOUN NNS dobj xxxx True False left
+None
+Contiene coordinación: left tibial and peroneal nerves
+left leave VERB VBN conj xxxx True False responses
+None
+tibial tibial ADJ JJ amod xxxx True False nerves
+None
+and and CCONJ CC cc xxx True True tibial
+None
+peroneal peroneal NOUN NN conj xxxx True False tibial
+None
+nerves nerve NOUN NNS dobj xxxx True False left
+None
+Contiene coordinación: active or chronic lumbar radiculopathy
+active active ADJ JJ amod xxxx True False radiculopathy
+None
+or or CCONJ CC cc xx True True active
+None
+chronic chronic ADJ JJ conj xxxx True False active
+None
+lumbar lumbar NOUN NN compound xxxx True False radiculopathy
+None
+radiculopathy radiculopathy NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: sagittal thoracic and axial views
+sagittal sagittal ADJ JJ amod xxxx True False views
+None
+thoracic thoracic ADJ JJ amod xxxx True False views
+None
+and and CCONJ CC cc xxx True True thoracic
+None
+axial axial ADJ JJ conj xxxx True False thoracic
+None
+views view NOUN NNS appos xxxx True False figure
+None
+Contiene coordinación: weighted sagittal and axial view
+weighted weight VERB VBN ROOT xxxx True False weighted
+None
+sagittal sagittal ADJ JJ amod xxxx True False view
+None
+and and CCONJ CC cc xxx True True sagittal
+None
+axial axial ADJ JJ conj xxxx True False sagittal
+None
+view view NOUN NN dobj xxxx True False weighted
+None
+Contiene coordinación: weighted sagittal and axial view
+weighted weight VERB VBN ccomp xxxx True False weighted
+None
+sagittal sagittal ADJ JJ amod xxxx True False view
+None
+and and CCONJ CC cc xxx True True sagittal
+None
+axial axial ADJ JJ conj xxxx True False sagittal
+None
+view view NOUN NN dobj xxxx True False weighted
+None
+Contiene coordinación: weighted sagittal and axial view
+weighted weight VERB VBN ROOT xxxx True False weighted
+None
+sagittal sagittal ADJ JJ amod xxxx True False view
+None
+and and CCONJ CC cc xxx True True sagittal
+None
+axial axial ADJ JJ conj xxxx True False sagittal
+None
+view view NOUN NN dobj xxxx True False weighted
+None
+Contiene coordinación: weighted sagittal and axial view
+weighted weight VERB VBN ROOT xxxx True False weighted
+None
+sagittal sagittal ADJ JJ amod xxxx True False view
+None
+and and CCONJ CC cc xxx True True sagittal
+None
+axial axial ADJ JJ conj xxxx True False sagittal
+None
+view view NOUN NN dobj xxxx True False weighted
+None
+Contiene coordinación: right and posterolateral edge
+right right ADJ JJ amod xxxx True False edge
+None
+and and CCONJ CC cc xxx True True right
+None
+posterolateral posterolateral ADJ JJ conj xxxx True False right
+None
+edge edge NOUN NN pobj xxxx True False to
+None
+Contiene coordinación: sagittal and axial view
+sagittal sagittal ADJ JJ amod xxxx True False view
+None
+and and CCONJ CC cc xxx True True sagittal
+None
+axial axial ADJ JJ conj xxxx True False sagittal
+None
+view view NOUN NN dobj xxxx True False weighted
+None
+Contiene coordinación: weighted sagittal and axial view
+weighted weight VERB VBN ROOT xxxx True False weighted
+None
+sagittal sagittal ADJ JJ amod xxxx True False view
+None
+and and CCONJ CC cc xxx True True sagittal
+None
+axial axial ADJ JJ conj xxxx True False sagittal
+None
+view view NOUN NN dobj xxxx True False weighted
+None
+Contiene coordinación: sagittal and axial view
+sagittal sagittal ADJ JJ amod xxxx True False view
+None
+and and CCONJ CC cc xxx True True sagittal
+None
+axial axial ADJ JJ conj xxxx True False sagittal
+None
+view view NOUN NN dobj xxxx True False weighted
+None
+Contiene coordinación: sagittal and coronal views
+sagittal sagittal ADJ JJ amod xxxx True False views
+None
+and and CCONJ CC cc xxx True True sagittal
+None
+coronal coronal ADJ JJ conj xxxx True False sagittal
+None
+views view NOUN NNS dobj xxxx True False weighted
+None
+Contiene coordinación: sagittal and axial compression fracture
+sagittal sagittal ADJ JJ amod xxxx True False compression
+None
+and and CCONJ CC cc xxx True True sagittal
+None
+axial axial ADJ JJ conj xxxx True False sagittal
+None
+compression compression NOUN NN nsubj xxxx True False fracture
+None
+fracture fracture NOUN NN ROOT xxxx True False fracture
+None
+Contiene coordinación: sagittal and axial compression fracture
+sagittal sagittal ADJ JJ amod xxxx True False figure
+None
+and and CCONJ CC cc xxx True True sagittal
+None
+axial axial ADJ JJ conj xxxx True False sagittal
+None
+compression compression NOUN NN conj xxxx True False sagittal
+None
+fracture fracture NOUN NN ROOT xxxx True False fracture
+None
+Contiene coordinación: anterior and posterior cruciate ligaments
+anterior anterior ADJ JJ amod xxxx True False ligaments
+None
+and and CCONJ CC cc xxx True True anterior
+None
+posterior posterior ADJ JJ conj xxxx True False anterior
+None
+cruciate cruciate ADJ JJ amod xxxx True False ligaments
+None
+ligaments ligament NOUN NNS nsubj xxxx True False are
+None
+Contiene coordinación: medial and lateral collateral ligament complexes
+medial medial ADJ JJ amod xxxx True False complexes
+None
+and and CCONJ CC cc xxx True True medial
+None
+lateral lateral ADJ JJ conj xxxx True False medial
+None
+collateral collateral ADJ JJ amod xxxx True False complexes
+None
+ligament ligament NOUN NN compound xxxx True False complexes
+None
+complexes complex NOUN NNS nsubj xxxx True False are
+None
+Contiene coordinación: weighted coronal and axial views
+weighted weighted ADJ JJ acl xxxx True False figure
+None
+coronal coronal ADJ JJ amod xxxx True False views
+None
+and and CCONJ CC cc xxx True True coronal
+None
+axial axial ADJ JJ conj xxxx True False coronal
+None
+views view NOUN NNS dobj xxxx True False weighted
+None
+Contiene coordinación: weighted coronal and axial views
+weighted weighted ADJ JJ acl xxxx True False figure
+None
+coronal coronal ADJ JJ amod xxxx True False views
+None
+and and CCONJ CC cc xxx True True coronal
+None
+axial axial ADJ JJ conj xxxx True False coronal
+None
+views view NOUN NNS dobj xxxx True False weighted
+None
+Contiene coordinación: ambulating and sitting erect
+ambulating ambulate VERB VBG advcl xxxx True False sharp
+None
+and and CCONJ CC cc xxx True True ambulating
+None
+sitting sit VERB VBG conj xxxx True False ambulating
+None
+erect erect NOUN NN acomp xxxx True False sitting
+None
+Contiene coordinación: nifedipine and triamterene
+nifedipine nifedipine ADJ JJ attr xxxx True False are
+None
+and and CCONJ CC cc xxx True True nifedipine
+None
+triamterene triamterene NOUN NN compound xxxx True False hydrochlorothiazide
+None
+Contiene coordinación: detecting and screening
+detecting detect VERB VBG pcomp xxxx True False in
+None
+and and CCONJ CC cc xxx True True detecting
+None
+screening screening NOUN NN conj xxxx True False detecting
+None
+Contiene coordinación: posterior and anterior longitudinal ligaments
+posterior posterior ADJ JJ amod xxxx True False ligaments
+None
+and and CCONJ CC cc xxx True True posterior
+None
+anterior anterior ADJ JJ conj xxxx True False posterior
+None
+longitudinal longitudinal ADJ JJ amod xxxx True False ligaments
+None
+ligaments ligament NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: small cortical or subchondral fractures
+small small ADJ JJ amod xxxx True False fractures
+None
+cortical cortical ADJ JJ amod xxxx True False fractures
+None
+or or CCONJ CC cc xx True True cortical
+None
+subchondral subchondral ADJ JJ conj xxxx True False cortical
+None
+fractures fracture NOUN NNS appos xxxx True False disease
+None
+Contiene coordinación: fat suppressed and
+fat fat NOUN NN pobj xxx True False of
+None
+suppressed suppress VERB VBN ROOT xxxx True False suppressed
+None
+and and CCONJ CC cc xxx True True suppressed
+None
+Contiene coordinación: computed and direct radiography
+computed compute VERB VBN amod xxxx True False radiography
+None
+and and CCONJ CC cc xxx True True computed
+None
+direct direct ADJ JJ conj xxxx True False computed
+None
+radiography radiography NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: cervical, thoracic and lumbar regions
+cervical cervical ADJ JJ amod xxxx True False regions
+None
+, , PUNCT , punct , False False cervical
+None
+thoracic thoracic ADJ JJ conj xxxx True False cervical
+None
+and and CCONJ CC cc xxx True True thoracic
+None
+lumbar lumbar ADJ JJ conj xxxx True False thoracic
+None
+regions region NOUN NNS pobj xxxx True False in
+None
+Contiene coordinación: oblique, mild depressed fracture
+oblique oblique ADJ JJ amod xxxx True False fracture
+None
+, , PUNCT , punct , False False fracture
+None
+mild mild ADJ JJ amod xxxx True False fracture
+None
+depressed depressed ADJ JJ amod xxxx True False fracture
+None
+fracture fracture NOUN NN attr xxxx True False is
+None
+Contiene coordinación: seated, restrained passenger
+seated seated ADJ JJ amod xxxx True False passenger
+None
+, , PUNCT , punct , False False passenger
+None
+restrained restrained ADJ JJ amod xxxx True False passenger
+None
+passenger passenger NOUN NN attr xxxx True False was
+None
+Contiene coordinación: meniscal, spinal cord
+meniscal meniscal ADJ JJ conj xxxx True False ligamentous
+None
+, , PUNCT , punct , False False meniscal
+None
+spinal spinal ADJ JJ amod xxxx True False cord
+None
+cord cord NOUN NN conj xxxx True False meniscal
+None
+Contiene coordinación: extensive medical and surgical history
+extensive extensive ADJ JJ amod xxxx True False history
+None
+medical medical ADJ JJ amod xxxx True False history
+None
+and and CCONJ CC cc xxx True True medical
+None
+surgical surgical ADJ JJ conj xxxx True False medical
+None
+history history NOUN NN dobj xxxx True False considering
+None
+Contiene coordinación: large, heterogeneous hypoechoic right intratesticular mass
+large large ADJ JJ amod xxxx True False hypoechoic
+None
+, , PUNCT , punct , False False hypoechoic
+None
+heterogeneous heterogeneous ADJ JJ amod xxxx True False hypoechoic
+None
+hypoechoic hypoechoic PROPN NNP compound xxxx True False mass
+None
+right right PROPN NNP amod xxxx True False intratesticular
+None
+intratesticular intratesticular PROPN NNP compound xxxx True False mass
+None
+mass mass PROPN NNP dobj xxxx True False demonstrated
+None
+Contiene coordinación: uniform and symmetric joint space loss
+uniform uniform ADJ JJ amod xxxx True False loss
+None
+and and CCONJ CC cc xxx True True uniform
+None
+symmetric symmetric ADJ JJ conj xxxx True False uniform
+None
+joint joint ADJ JJ amod xxxx True False space
+None
+space space NOUN NN compound xxxx True False loss
+None
+loss loss NOUN NN appos xxxx True False phalanges
+None
+Contiene coordinación: subtle, non-displaced right iliac wing fracture
+subtle subtle ADJ JJ amod xxxx True False fracture
+None
+, , PUNCT , punct , False False fracture
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False displaced
+None
+displaced displaced ADJ JJ amod xxxx True False right
+None
+right right ADJ JJ amod xxxx True False wing
+None
+iliac iliac ADJ JJ amod xxxx True False wing
+None
+wing wing NOUN NN compound xxxx True False fracture
+None
+fracture fracture NOUN NN dobj xxxx True False shows
+None
+Contiene coordinación: demonstrating diffuse patchy bilateral upper and lower lobe groundglass
+demonstrating demonstrate VERB VBG acl xxxx True False ct
+None
+diffuse diffuse ADJ JJ acl xxxx True False pneumothorax
+None
+patchy patchy ADJ JJ amod xxxx True False upper
+None
+bilateral bilateral ADJ JJ amod xxxx True False upper
+None
+upper upper ADJ JJ dobj xxxx True False diffuse
+None
+and and CCONJ CC cc xxx True True upper
+None
+lower low ADJ JJR conj xxxx True False upper
+None
+lobe lobe NOUN NN compound xxxx True False groundglass
+None
+groundglass groundglass PROPN NNP compound xxxx True False opacities
+None
+Contiene coordinación: primary and recurrent high grade mfh
+primary primary ADJ JJ amod xxxx True False mfh
+None
+and and CCONJ CC cc xxx True True primary
+None
+recurrent recurrent ADJ JJ conj xxxx True False primary
+None
+high high ADJ JJ amod xxxx True False grade
+None
+grade grade NOUN NN compound xxxx True False mfh
+None
+mfh mfh PROPN NNP pobj xxx True False for
+None
+Contiene coordinación: left and right coronary artery systems
+left left ADJ JJ amod xxxx True False systems
+None
+and and CCONJ CC cc xxx True True left
+None
+right right ADJ JJ conj xxxx True False left
+None
+coronary coronary ADJ JJ amod xxxx True False systems
+None
+artery artery NOUN NN compound xxxx True False systems
+None
+systems system NOUN NNS pobj xxxx True False between
+None
+Contiene coordinación: clinical and initial laboratory findings
+clinical clinical ADJ JJ amod xxxx True False findings
+None
+and and CCONJ CC cc xxx True True clinical
+None
+initial initial ADJ JJ conj xxxx True False clinical
+None
+laboratory laboratory NOUN NN compound xxxx True False findings
+None
+findings finding NOUN NNS nsubj xxxx True False be
+None
+Contiene coordinación: rare, congenital cardiac anomaly accounting
+rare rare ADJ JJ amod xxxx True False accounting
+None
+, , PUNCT , punct , False False anomaly
+None
+congenital congenital ADJ JJ amod xxxx True False anomaly
+None
+cardiac cardiac ADJ JJ amod xxxx True False anomaly
+None
+anomaly anomaly NOUN NN compound xxxx True False accounting
+None
+accounting account VERB VBG attr xxxx True False is
+None
+Contiene coordinación: anterior and lateral x-ray
+anterior anterior ADJ JJ amod xxxx True False ray
+None
+and and CCONJ CC cc xxx True True anterior
+None
+lateral lateral ADJ JJ conj xxxx True False anterior
+None
+x x NOUN NN dep x True False -
+None
+- - NOUN NN punct - False False ray
+None
+ray ray NOUN NN nsubj xxx True False showed
+None
+Contiene coordinación: twitching and leftward eye deviation
+twitching twitch VERB VBG dobj xxxx True False had
+None
+and and CCONJ CC cc xxx True True twitching
+None
+leftward leftward ADJ JJ amod xxxx True False deviation
+None
+eye eye NOUN NN compound xxx True False deviation
+None
+deviation deviation NOUN NN conj xxxx True False twitching
+None
+Contiene coordinación: right medial lateral oblique and right cranial caudal mammograms
+right right ADJ JJ advmod xxxx True False medial
+None
+medial medial ADJ JJ ROOT xxxx True False medial
+None
+lateral lateral ADJ JJ advmod xxxx True False oblique
+None
+oblique oblique ADJ JJ ROOT xxxx True False oblique
+None
+and and CCONJ CC cc xxx True True oblique
+None
+right right ADJ JJ conj xxxx True False oblique
+None
+cranial cranial ADJ JJ amod xxxx True False caudal
+None
+caudal caudal ADJ JJ amod xxxx True False mammograms
+None
+mammograms mammogram NOUN NNS nsubj xxxx True False demonstrate
+None
+Contiene coordinación: large and small intestines
+large large ADJ JJ amod xxxx True False intestines
+None
+and and CCONJ CC cc xxx True True large
+None
+small small ADJ JJ conj xxxx True False large
+None
+intestines intestine NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: uncovertebral and bilateral foraminal stenosis
+uncovertebral uncovertebral ADJ JJ nmod xxxx True False stenosis
+None
+and and CCONJ CC cc xxx True True uncovertebral
+None
+bilateral bilateral ADJ JJ amod xxxx True False foraminal
+None
+foraminal foraminal ADJ JJ conj xxxx True False uncovertebral
+None
+stenosis stenosis NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: left and mild left foraminal stenosis
+left left ADJ JJ amod xxxx True False left
+None
+and and CCONJ CC cc xxx True True left
+None
+mild mild ADJ JJ conj xxxx True False left
+None
+left left ADJ JJ amod xxxx True False stenosis
+None
+foraminal foraminal ADJ JJ amod xxxx True False stenosis
+None
+stenosis stenosis NOUN NN pobj xxxx True False on
+None
+Contiene coordinación: diminished or absent superficial reflexes
+diminished diminished ADJ JJ conj xxxx True False drift
+None
+or or CCONJ CC cc xx True True diminished
+None
+absent absent ADJ JJ amod xxxx True False reflexes
+None
+superficial superficial ADJ JJ amod xxxx True False reflexes
+None
+reflexes reflex NOUN NNS conj xxxx True False diminished
+None
+Contiene coordinación: abdominal and cremasteric reflexes
+abdominal abdominal ADJ JJ amod xxxx True False reflexes
+None
+and and CCONJ CC cc xxx True True abdominal
+None
+cremasteric cremasteric ADJ JJ conj xxxx True False abdominal
+None
+reflexes reflex NOUN NNS pobj xxxx True False as
+None
+Contiene coordinación: anterior and posterior abdominal muscles
+anterior anterior ADJ JJ amod xxxx True False muscles
+None
+and and CCONJ CC cc xxx True True anterior
+None
+posterior posterior ADJ JJ conj xxxx True False anterior
+None
+abdominal abdominal ADJ JJ amod xxxx True False muscles
+None
+muscles muscle NOUN NNS dobj xxxx True False innervate
+None
+Contiene coordinación: left and mild left foraminal stenosis
+left left ADJ JJ amod xxxx True False left
+None
+and and CCONJ CC cc xxx True True left
+None
+mild mild ADJ JJ conj xxxx True False left
+None
+left left ADJ JJ amod xxxx True False stenosis
+None
+foraminal foraminal ADJ JJ amod xxxx True False stenosis
+None
+stenosis stenosis NOUN NN pobj xxxx True False on
+None
+Contiene coordinación: subacute and chronic low back pain
+subacute subacute ADJ JJ amod xxxx True False 2
+None
+and and CCONJ CC cc xxx True True subacute
+None
+chronic chronic ADJ JJ conj xxxx True False subacute
+None
+low low ADJ JJ amod xxx True False back
+None
+back back ADJ JJ compound xxxx True True pain
+None
+pain pain NOUN NN appos xxxx True False york
+None
+Contiene coordinación: third, fourth and fifth digits
+third third ADJ JJ amod xxxx True True digits
+None
+, , PUNCT , punct , False False third
+None
+fourth fourth ADJ JJ conj xxxx True False third
+None
+and and CCONJ CC cc xxx True True fourth
+None
+fifth fifth ADJ JJ conj xxxx True False fourth
+None
+digits digit NOUN NNS pobj xxxx True False into
+None
+Contiene coordinación: third, fourth and fifth digits
+third third ADJ JJ amod xxxx True True digits
+None
+, , PUNCT , punct , False False third
+None
+fourth fourth ADJ JJ conj xxxx True False third
+None
+and and CCONJ CC cc xxx True True fourth
+None
+fifth fifth ADJ JJ conj xxxx True False fourth
+None
+digits digit NOUN NNS pobj xxxx True False into
+None
+Contiene coordinación: successful and multiple surgeries
+successful successful ADJ JJ amod xxxx True False surgeries
+None
+and and CCONJ CC cc xxx True True successful
+None
+multiple multiple ADJ JJ conj xxxx True False successful
+None
+surgeries surgery NOUN NNS nsubj xxxx True False be
+None
+Contiene coordinación: splenic, portal and hepatic veins
+splenic splenic ADJ JJ conj xxxx True False vein
+None
+, , PUNCT , punct , False False splenic
+None
+portal portal ADJ JJ conj xxxx True False splenic
+None
+and and CCONJ CC cc xxx True True portal
+None
+hepatic hepatic ADJ JJ amod xxxx True False veins
+None
+veins vein NOUN NNS conj xxxx True False portal
+None
+Contiene coordinación: residual superior and inferior limbal stem cell changes
+residual residual ADJ JJ amod xxxx True False changes
+None
+superior superior ADJ JJ amod xxxx True False changes
+None
+and and CCONJ CC cc xxx True True superior
+None
+inferior inferior ADJ JJ conj xxxx True False superior
+None
+limbal limbal NOUN NN amod xxxx True False changes
+None
+stem stem NOUN NN compound xxxx True False cell
+None
+cell cell NOUN NN compound xxxx True False changes
+None
+changes change NOUN NNS dobj xxxx True False showed
+None
+Contiene coordinación: daily and ophthalmologic referral
+daily daily ADJ JJ amod xxxx True False referral
+None
+and and CCONJ CC cc xxx True True daily
+None
+ophthalmologic ophthalmologic ADJ JJ conj xxxx True False daily
+None
+referral referral NOUN NN npadvmod xxxx True False is
+None
+Contiene coordinación: non-tender, non-distended abdominal and pelvic exam
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False tender
+None
+tender tender ADJ JJ amod xxxx True False exam
+None
+, , PUNCT , dep , False False -
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False distended
+None
+distended distended ADJ JJ amod xxxx True False exam
+None
+abdominal abdominal ADJ JJ amod xxxx True False exam
+None
+and and CCONJ CC cc xxx True True abdominal
+None
+pelvic pelvic ADJ JJ conj xxxx True False abdominal
+None
+exam exam NOUN NN ROOT xxxx True False exam
+None
+Contiene coordinación: containing peripheral or lumenal soft tissue nodules
+containing contain VERB VBG acl xxxx True False capsule
+None
+peripheral peripheral ADJ JJ amod xxxx True False tissue
+None
+or or CCONJ CC cc xx True True peripheral
+None
+lumenal lumenal ADJ JJ conj xxxx True False peripheral
+None
+soft soft ADJ JJ amod xxxx True False tissue
+None
+tissue tissue NOUN NN compound xxxx True False nodules
+None
+nodules nodule NOUN NNS dobj xxxx True False containing
+None
+Contiene coordinación: t1-weighted and high signal intensity
+t1-weighted t1-weighted ADJ JJ nmod xd-xxxx False False intensity
+None
+and and CCONJ CC cc xxx True True t1-weighted
+None
+high high ADJ JJ amod xxxx True False signal
+None
+signal signal NOUN NN amod xxxx True False intensity
+None
+intensity intensity NOUN NN pobj xxxx True False on
+None
+Contiene coordinación: low or unattainable arterial blood pressure
+low low ADJ JJ amod xxx True False pressure
+None
+or or CCONJ CC cc xx True True low
+None
+unattainable unattainable ADJ JJ conj xxxx True False low
+None
+arterial arterial ADJ JJ amod xxxx True False pressure
+None
+blood blood NOUN NN compound xxxx True False pressure
+None
+pressure pressure NOUN NN conj xxxx True False delayed
+None
+Contiene coordinación: pre and post-coarctation dilatation
+pre pre ADJ JJ nmod xxx True False dilatation
+None
+and and CCONJ CC cc xxx True True pre
+None
+post post ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False coarctation
+None
+coarctation coarctation ADJ JJ conj xxxx True False pre
+None
+dilatation dilatation NOUN NN pobj xxxx True False with
+None
+Contiene coordinación: painful, non-productive cough
+painful painful ADJ JJ amod xxxx True False cough
+None
+, , PUNCT , punct , False False cough
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False productive
+None
+productive productive ADJ JJ amod xxxx True False cough
+None
+cough cough NOUN NN conj xxxx True False sweats
+None
+Contiene coordinación: cardiomegaly and possible mediastinal widening
+cardiomegaly cardiomegaly ADJ JJ dobj xxxx True False indicated
+None
+and and CCONJ CC cc xxx True True cardiomegaly
+None
+possible possible ADJ JJ amod xxxx True False widening
+None
+mediastinal mediastinal ADJ JJ amod xxxx True False widening
+None
+widening widening NOUN NN conj xxxx True False cardiomegaly
+None
+Contiene coordinación: cervical and thoracic mri
+cervical cervical ADJ JJ amod xxxx True False mri
+None
+and and CCONJ CC cc xxx True True cervical
+None
+thoracic thoracic ADJ JJ conj xxxx True False cervical
+None
+mri mri PROPN NNP compound xxx True False ’s
+None
+Contiene coordinación: thoracic and cervical spine
+thoracic thoracic ADJ JJ amod xxxx True False spine
+None
+and and CCONJ CC cc xxx True True thoracic
+None
+cervical cervical ADJ JJ conj xxxx True False thoracic
+None
+spine spine NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: thoracic and abdominal aortic aneurysms
+thoracic thoracic ADJ JJ amod xxxx True False aortic
+None
+and and CCONJ CC cc xxx True True thoracic
+None
+abdominal abdominal ADJ JJ conj xxxx True False thoracic
+None
+aortic aortic ADJ JJ amod xxxx True False aneurysms
+None
+aneurysms aneurysm NOUN NNS ROOT xxxx True False aneurysms
+None
+Contiene coordinación: thoracic and cardiovascular surgery
+thoracic thoracic ADJ JJ amod xxxx True False surgery
+None
+and and CCONJ CC cc xxx True True thoracic
+None
+cardiovascular cardiovascular ADJ JJ conj xxxx True False thoracic
+None
+surgery surgery NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: smoker, social drinker
+smoker smoker ADJ JJ conj xxxx True False hypertension
+None
+, , PUNCT , punct , False False drinker
+None
+social social ADJ JJ amod xxxx True False drinker
+None
+drinker drinker NOUN NN conj xxxx True False hypertension
+None
+Contiene coordinación: ventral and dorsal subarachnoid space
+ventral ventral ADJ JJ amod xxxx True False space
+None
+and and CCONJ CC cc xxx True True ventral
+None
+dorsal dorsal ADJ JJ conj xxxx True False ventral
+None
+subarachnoid subarachnoid NOUN NN conj xxxx True False ventral
+None
+space space NOUN NN nsubjpass xxxx True False effaced
+None
+Contiene coordinación: ventral and dorsal subarachnoid space
+ventral ventral ADJ JJ amod xxxx True False space
+None
+and and CCONJ CC cc xxx True True ventral
+None
+dorsal dorsal ADJ JJ conj xxxx True False ventral
+None
+subarachnoid subarachnoid NOUN NN compound xxxx True False space
+None
+space space NOUN NN nsubjpass xxxx True False effaced
+None
+Contiene coordinación: cervical and upper back muscles
+cervical cervical ADJ JJ amod xxxx True False back
+None
+and and CCONJ CC cc xxx True True cervical
+None
+upper upper ADJ JJ conj xxxx True False cervical
+None
+back back NOUN NN amod xxxx True True muscles
+None
+muscles muscle NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: mixed upper and lower motor neuron deficits
+mixed mixed ADJ JJ amod xxxx True False deficits
+None
+upper upper ADJ JJ amod xxxx True False deficits
+None
+and and CCONJ CC cc xxx True True upper
+None
+lower low ADJ JJR conj xxxx True False upper
+None
+motor motor NOUN NN compound xxxx True False neuron
+None
+neuron neuron NOUN NN compound xxxx True False deficits
+None
+deficits deficit NOUN NNS dobj xxxx True False demonstrates
+None
+Contiene coordinación: reduced or absent reflexes
+reduced reduce VERB VBN ROOT xxxx True False reduced
+None
+or or CCONJ CC cc xx True True reduced
+None
+absent absent ADJ JJ conj xxxx True False reduced
+None
+reflexes reflex NOUN NNS conj xxxx True False reduced
+None
+Contiene coordinación: distal upper and lower extremities
+distal distal ADJ JJ amod xxxx True False extremities
+None
+upper upper ADJ JJ amod xxxx True False extremities
+None
+and and CCONJ CC cc xxx True True upper
+None
+lower low ADJ JJR conj xxxx True False upper
+None
+extremities extremity NOUN NNS pobj xxxx True False in
+None
+Contiene coordinación: upper and lower extremities
+upper upper ADJ JJ amod xxxx True False extremities
+None
+and and CCONJ CC cc xxx True True upper
+None
+lower low ADJ JJR conj xxxx True False upper
+None
+extremities extremity NOUN NNS pobj xxxx True False in
+None
+Contiene coordinación: cervical and lumbosacral flexion
+cervical cervical ADJ JJ amod xxxx True False flexion
+None
+and and CCONJ CC cc xxx True True cervical
+None
+lumbosacral lumbosacral ADJ JJ conj xxxx True False cervical
+None
+flexion flexion NOUN NN pobj xxxx True False with
+None
+Contiene coordinación: manipulative and physiological therapeutics
+manipulative manipulative ADJ JJ amod xxxx True False therapeutics
+None
+and and CCONJ CC cc xxx True True manipulative
+None
+physiological physiological ADJ JJ conj xxxx True False manipulative
+None
+therapeutics therapeutic NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: multiple perilymphatic and subpleural nodules
+multiple multiple ADJ JJ amod xxxx True False perilymphatic
+None
+perilymphatic perilymphatic ADJ JJ appos xxxx True False impression
+None
+and and CCONJ CC cc xxx True True perilymphatic
+None
+subpleural subpleural ADJ JJ conj xxxx True False perilymphatic
+None
+nodules nodule NOUN NNS conj xxxx True False perilymphatic
+None
+Contiene coordinación: 4th and 5th digits
+4th 4th ADJ JJ amod dxx False False digits
+None
+and and CCONJ CC cc xxx True True 4th
+None
+5th 5th ADJ JJ conj dxx False False 4th
+None
+digits digit NOUN NNS nsubj xxxx True False have
+None
+Contiene coordinación: 4th and 5th digits
+4th 4th ADJ JJ amod dxx False False digits
+None
+and and CCONJ CC cc xxx True True 4th
+None
+5th 5th ADJ JJ conj dxx False False 4th
+None
+digits digit NOUN NNS conj xxxx True False hand
+None
+Contiene coordinación: 62-year old caucasian, female g3p3
+62-year 62-year ADJ JJ nmod dd-xxxx False False caucasian
+None
+old old ADJ JJ amod xxx True False caucasian
+None
+caucasian caucasian ADJ JJ appos xxxx True False hpi
+None
+, , PUNCT , punct , False False caucasian
+None
+female female ADJ JJ compound xxxx True False g3p3
+None
+g3p3 g3p3 NOUN NN appos xdxd False False caucasian
+None
+Contiene coordinación: abnormal, intermediate intrasubstance signal intensity
+abnormal abnormal ADJ JJ amod xxxx True False intensity
+None
+, , PUNCT , punct , False False intensity
+None
+intermediate intermediate ADJ JJ amod xxxx True False intrasubstance
+None
+intrasubstance intrasubstance NOUN NN compound xxxx True False signal
+None
+signal signal NOUN NN compound xxxx True False intensity
+None
+intensity intensity NOUN NN dobj xxxx True False shows
+None
+Contiene coordinación: large , intra-axial left temporal mass lesion
+large large ADJ JJ amod xxxx True False axial
+None
+, , PUNCT , punct , False False axial
+None
+intra intra ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False axial
+None
+axial axial ADJ JJ amod xxxx True False lesion
+None
+left leave VERB VBN amod xxxx True False lesion
+None
+temporal temporal ADJ JJ amod xxxx True False lesion
+None
+mass mass NOUN NN compound xxxx True False lesion
+None
+lesion lesion NOUN NN dobj xxxx True False demonstrates
+None
+Contiene coordinación: primary or secondary neoplasm
+primary primary ADJ JJ amod xxxx True False neoplasm
+None
+or or CCONJ CC cc xx True True primary
+None
+secondary secondary ADJ JJ conj xxxx True False primary
+None
+neoplasm neoplasm NOUN NN nsubj xxxx True False was
+None
+Contiene coordinación: symptomatic, facet joint cysts can cause
+symptomatic symptomatic ADJ JJ acomp xxxx True False cause
+None
+, , PUNCT , punct , False False cause
+None
+facet facet ADJ JJ amod xxxx True False cysts
+None
+joint joint ADJ JJ amod xxxx True False cysts
+None
+cysts cyst NOUN NNS nsubj xxxx True False cause
+None
+can can VERB MD aux xxx True True cause
+None
+cause cause VERB VB ROOT xxxx True False cause
+None
+Contiene coordinación: enlarged main and hilar pulmonary arteries
+enlarged enlarge VERB VBN amod xxxx True False patients
+None
+main main ADJ JJ amod xxxx True False arteries
+None
+and and CCONJ CC cc xxx True True main
+None
+hilar hilar ADJ JJ conj xxxx True False main
+None
+pulmonary pulmonary ADJ JJ amod xxxx True False arteries
+None
+arteries artery NOUN NNS dobj xxxx True False enlarged
+None
+Contiene coordinación: acute epigastric or nonspecific abdominal pain syndrome combined
+acute acute ADJ JJ amod xxxx True False syndrome
+None
+epigastric epigastric ADJ JJ amod xxxx True False syndrome
+None
+or or CCONJ CC cc xx True True epigastric
+None
+nonspecific nonspecific ADJ JJ conj xxxx True False epigastric
+None
+abdominal abdominal ADJ JJ amod xxxx True False syndrome
+None
+pain pain NOUN NN compound xxxx True False syndrome
+None
+syndrome syndrome NOUN NN appos xxxx True False patterns
+None
+combined combine VERB VBN acl xxxx True False syndrome
+None
+Contiene coordinación: showing mesenteric or portal venous gas
+showing show VERB VBG pcomp xxxx True False by
+None
+mesenteric mesenteric ADJ JJ amod xxxx True False gas
+None
+or or CCONJ CC cc xx True True mesenteric
+None
+portal portal ADJ JJ conj xxxx True False mesenteric
+None
+venous venous ADJ JJ amod xxxx True False gas
+None
+gas gas NOUN NN dobj xxx True False showing
+None
+Contiene coordinación: aorta and pulmonary outflow tract
+aorta aorta ADJ JJ pobj xxxx True False between
+None
+and and CCONJ CC cc xxx True True aorta
+None
+pulmonary pulmonary ADJ JJ amod xxxx True False tract
+None
+outflow outflow NOUN NN amod xxxx True False tract
+None
+tract tract NOUN NN conj xxxx True False aorta
+None
+Contiene coordinación: soft, non-tender, non-distended abdomen
+soft soft ADJ JJ amod xxxx True False abdomen
+None
+, , PUNCT , punct , False False abdomen
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False tender
+None
+tender tender ADJ JJ amod xxxx True False abdomen
+None
+, , PUNCT , punct , False False abdomen
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False distended
+None
+distended distended ADJ JJ amod xxxx True False abdomen
+None
+abdomen abdomen NOUN NN appos xxxx True False icterus
+None
+Contiene coordinación: large inner city hospital diagnosed and treated
+large large ADJ JJ amod xxxx True False hospital
+None
+inner inner ADJ JJ amod xxxx True False city
+None
+city city NOUN NN compound xxxx True False hospital
+None
+hospital hospital NOUN NN pobj xxxx True False at
+None
+diagnosed diagnose VERB VBN acl xxxx True False hospital
+None
+and and CCONJ CC cc xxx True True diagnosed
+None
+treated treat VERB VBN conj xxxx True False diagnosed
+None
+Contiene coordinación: free intraperitoneal or retroperitoneal air
+free free ADJ JJ amod xxxx True False air
+None
+intraperitoneal intraperitoneal ADJ JJ amod xxxx True False air
+None
+or or CCONJ CC cc xx True True intraperitoneal
+None
+retroperitoneal retroperitoneal ADJ JJ conj xxxx True False intraperitoneal
+None
+air air NOUN NN pobj xxx True False of
+None
+Contiene coordinación: unknown, osteosclerotic and osteolytic lesions seem
+unknown unknown ADJ JJ acomp xxxx True False is
+None
+, , PUNCT , punct , False False is
+None
+osteosclerotic osteosclerotic ADJ JJ nmod xxxx True False lesions
+None
+and and CCONJ CC cc xxx True True osteosclerotic
+None
+osteolytic osteolytic ADJ JJ conj xxxx True False osteosclerotic
+None
+lesions lesion NOUN NNS nsubj xxxx True False seem
+None
+seem seem VERB VBP ROOT xxxx True True seem
+None
+Contiene coordinación: young, healthy marine recruit
+young young ADJ JJ amod xxxx True False recruit
+None
+, , PUNCT , punct , False False recruit
+None
+healthy healthy ADJ JJ amod xxxx True False recruit
+None
+marine marine NOUN NN compound xxxx True False recruit
+None
+recruit recruit VERB VBP pobj xxxx True False in
+None
+Contiene coordinación: apparent, differential diagnosis could include
+apparent apparent ADJ JJ acomp xxxx True False is
+None
+, , PUNCT , punct , False False include
+None
+differential differential ADJ JJ amod xxxx True False diagnosis
+None
+diagnosis diagnosis NOUN NN nsubj xxxx True False include
+None
+could could VERB MD aux xxxx True True include
+None
+include include VERB VB ROOT xxxx True False include
+None
+Contiene coordinación: maternal pre-eclampsia and abnormal non-reassuring fetal heart tracings
+maternal maternal ADJ JJ amod xxxx True False eclampsia
+None
+pre pre ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False eclampsia
+None
+eclampsia eclampsia ADJ JJ pobj xxxx True False due
+None
+and and CCONJ CC cc xxx True True section
+None
+abnormal abnormal ADJ JJ amod xxxx True False tracings
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False reassuring
+None
+reassuring reassuring ADJ JJ amod xxxx True False tracings
+None
+fetal fetal ADJ JJ amod xxxx True False heart
+None
+heart heart NOUN NN compound xxxx True False tracings
+None
+tracings tracing NOUN NNS conj xxxx True False section
+None
+Contiene coordinación: preventing or treating fat embolism syndrome
+preventing prevent VERB VBG pcomp xxxx True False in
+None
+or or CCONJ CC cc xx True True preventing
+None
+treating treat VERB VBG conj xxxx True False preventing
+None
+fat fat ADJ JJ amod xxx True False syndrome
+None
+embolism embolism NOUN NN compound xxxx True False syndrome
+None
+syndrome syndrome NOUN NN dobj xxxx True False treating
+None
+Contiene coordinación: single dysplastic, nonfunctioning kidney filled
+single single ADJ JJ amod xxxx True False kidney
+None
+dysplastic dysplastic ADJ JJ amod xxxx True False kidney
+None
+, , PUNCT , punct , False False kidney
+None
+nonfunctioning nonfunctioning ADJ JJ amod xxxx True False kidney
+None
+kidney kidney NOUN NN appos xxxx True False mcdkd
+None
+filled fill VERB VBN acl xxxx True False kidney
+None
+Contiene coordinación: median and ulnar nerve components
+median median ADJ JJ dobj xxxx True False affect
+None
+and and CCONJ CC cc xxx True True median
+None
+ulnar ulnar ADJ JJ amod xxxx True False components
+None
+nerve nerve NOUN NN compound xxxx True False components
+None
+components component NOUN NNS conj xxxx True False median
+None
+Contiene coordinación: known left adrenal and right parotid masses
+known know VERB VBN amod xxxx True False masses
+None
+left left ADJ JJ amod xxxx True False masses
+None
+adrenal adrenal ADJ JJ amod xxxx True False masses
+None
+and and CCONJ CC cc xxx True True adrenal
+None
+right right ADJ JJ conj xxxx True False adrenal
+None
+parotid parotid ADJ JJ compound xxxx True False masses
+None
+masses masse NOUN NNS dobj xxxx True False confirming
+None
+Contiene coordinación: non-structural or functional scoliosis
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False structural
+None
+structural structural ADJ JJ amod xxxx True False scoliosis
+None
+or or CCONJ CC cc xx True True structural
+None
+functional functional ADJ JJ conj xxxx True False structural
+None
+scoliosis scoliosis NOUN NN nsubj xxxx True False occurs
+None
+Contiene coordinación: temporary and changing condition
+temporary temporary ADJ JJ amod xxxx True False condition
+None
+and and CCONJ CC cc xxx True True temporary
+None
+changing change VERB VBG conj xxxx True False temporary
+None
+condition condition NOUN NN pobj xxxx True False due
+None
+Contiene coordinación: joint or skin hyperlaxity
+joint joint ADJ JJ amod xxxx True False hyperlaxity
+None
+or or CCONJ CC cc xx True True joint
+None
+skin skin NOUN NN conj xxxx True False joint
+None
+hyperlaxity hyperlaxity NOUN NN nsubj xxxx True False indicate
+None
+Contiene coordinación: musculoskeletal and skin diseases
+musculoskeletal musculoskeletal ADJ JJ amod xxxx True False diseases
+None
+and and CCONJ CC cc xxx True True musculoskeletal
+None
+skin skin NOUN NN conj xxxx True False musculoskeletal
+None
+diseases disease NOUN NNS conj xxxx True False arthritis
+None
+Contiene coordinación: cross-sectional and axial views
+cross cross ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False sectional
+None
+sectional sectional ADJ JJ amod xxxx True False views
+None
+and and CCONJ CC cc xxx True True sectional
+None
+axial axial ADJ JJ conj xxxx True False sectional
+None
+views view NOUN NNS pobj xxxx True False in
+None
+Contiene coordinación: axillary and mammary lymph nodes
+axillary axillary ADJ JJ amod xxxx True False nodes
+None
+and and CCONJ CC cc xxx True True axillary
+None
+mammary mammary ADJ JJ conj xxxx True False axillary
+None
+lymph lymph NOUN NN conj xxxx True False axillary
+None
+nodes node NOUN NNS nsubj xxxx True False are
+None
+Contiene coordinación: normal oval or reniform shape
+normal normal ADJ JJ amod xxxx True False shape
+None
+oval oval ADJ JJ amod xxxx True False shape
+None
+or or CCONJ CC cc xx True True oval
+None
+reniform reniform ADJ JJ conj xxxx True False oval
+None
+shape shape NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: abnormal axillary and mammary lymph nodes
+abnormal abnormal ADJ JJ amod xxxx True False nodes
+None
+axillary axillary ADJ JJ amod xxxx True False nodes
+None
+and and CCONJ CC cc xxx True True axillary
+None
+mammary mammary ADJ JJ conj xxxx True False axillary
+None
+lymph lymph NOUN NN conj xxxx True False axillary
+None
+nodes node NOUN NNS nsubj xxxx True False are
+None
+Contiene coordinación: axillary or mammary lymph nodes
+axillary axillary ADJ JJ amod xxxx True False lymph
+None
+or or CCONJ CC cc xx True True axillary
+None
+mammary mammary ADJ JJ conj xxxx True False axillary
+None
+lymph lymph NOUN NN compound xxxx True False nodes
+None
+nodes node NOUN NNS pobj xxxx True False within
+None
+Contiene coordinación: ongoing infectious or neoplastic process
+ongoing ongoing ADJ JJ amod xxxx True False process
+None
+infectious infectious ADJ JJ amod xxxx True False process
+None
+or or CCONJ CC cc xx True True infectious
+None
+neoplastic neoplastic ADJ JJ conj xxxx True False infectious
+None
+process process NOUN NN dobj xxxx True False exclude
+None
+Contiene coordinación: diffuse or multifocal main duct involvement
+diffuse diffuse ADJ JJ amod xxxx True False involvement
+None
+or or CCONJ CC cc xx True True diffuse
+None
+multifocal multifocal ADJ JJ conj xxxx True False diffuse
+None
+main main ADJ JJ amod xxxx True False involvement
+None
+duct duct NOUN NN compound xxxx True False involvement
+None
+involvement involvement NOUN NN conj xxxx True False mm
+None
+Contiene coordinación: main or combined duct types
+main main ADJ JJ amod xxxx True False types
+None
+or or CCONJ CC cc xx True True main
+None
+combined combined ADJ JJ conj xxxx True False main
+None
+duct duct NOUN NN compound xxxx True False types
+None
+types type NOUN NNS conj xxxx True False involvement
+None
+Contiene coordinación: thin, irregular and peripheral lobulated multicystic lesion
+thin thin ADJ JJ amod xxxx True False lesion
+None
+, , PUNCT , punct , False False lesion
+None
+irregular irregular ADJ JJ amod xxxx True False lesion
+None
+and and CCONJ CC cc xxx True True irregular
+None
+peripheral peripheral ADJ JJ conj xxxx True False irregular
+None
+lobulated lobulate VERB VBN amod xxxx True False lesion
+None
+multicystic multicystic ADJ JJ amod xxxx True False lesion
+None
+lesion lesion NOUN NN dobj xxxx True False include
+None
+Contiene coordinación: cervical and radiating pain
+cervical cervical ADJ JJ amod xxxx True False pain
+None
+and and CCONJ CC cc xxx True True cervical
+None
+radiating radiate VERB VBG conj xxxx True False cervical
+None
+pain pain NOUN NN dobj xxxx True False produce
+None
+Contiene coordinación: sagittal and axial planes
+sagittal sagittal ADJ JJ amod xxxx True False planes
+None
+and and CCONJ CC cc xxx True True sagittal
+None
+axial axial ADJ JJ conj xxxx True False sagittal
+None
+planes plane NOUN NNS pobj xxxx True False in
+None
+Contiene coordinación: left median & ulnar nerves
+left left ADJ JJ conj xxxx True False responses
+None
+median median ADJ JJ dobj xxxx True False left
+None
+& & CCONJ CC cc & False False median
+None
+ulnar ulnar ADJ JJ amod xxxx True False nerves
+None
+nerves nerve NOUN NNS conj xxxx True False median
+None
+Contiene coordinación: normal sensory and motor nerve conduction studies
+normal normal ADJ JJ amod xxxx True False studies
+None
+sensory sensory ADJ JJ amod xxxx True False studies
+None
+and and CCONJ CC cc xxx True True sensory
+None
+motor motor NOUN NN conj xxxx True False sensory
+None
+nerve nerve NOUN NN compound xxxx True False conduction
+None
+conduction conduction NOUN NN conj xxxx True False sensory
+None
+studies study NOUN NNS attr xxxx True False are
+None
+Contiene coordinación: delayed or progressive neurologic deterioration
+delayed delayed ADJ JJ amod xxxx True False deterioration
+None
+or or CCONJ CC cc xx True True delayed
+None
+progressive progressive ADJ JJ conj xxxx True False delayed
+None
+neurologic neurologic ADJ JJ amod xxxx True False deterioration
+None
+deterioration deterioration NOUN NN pobj xxxx True False with
+None
+Contiene coordinación: delayed sensory or motor complaints
+delayed delay VERB VBN amod xxxx True False complaints
+None
+sensory sensory ADJ JJ amod xxxx True False complaints
+None
+or or CCONJ CC cc xx True True sensory
+None
+motor motor NOUN NN conj xxxx True False sensory
+None
+complaints complaint NOUN NNS dobj xxxx True False include
+None
+Contiene coordinación: competent and producing cause
+competent competent ADJ JJ amod xxxx True False cause
+None
+and and CCONJ CC cc xxx True True competent
+None
+producing producing ADJ JJ conj xxxx True False competent
+None
+cause cause NOUN NN attr xxxx True False is
+None
+Contiene coordinación: clinical and radiographic findings
+clinical clinical ADJ JJ amod xxxx True False findings
+None
+and and CCONJ CC cc xxx True True clinical
+None
+radiographic radiographic ADJ JJ conj xxxx True False clinical
+None
+findings finding NOUN NNS dobj xxxx True False redefined
+None
+Contiene coordinación: difficulties standing, walking
+difficulties difficulty NOUN NNS dobj xxxx True False described
+None
+standing stand VERB VBG acl xxxx True False difficulties
+None
+, , PUNCT , punct , False False standing
+None
+walking walk VERB VBG conj xxxx True False standing
+None
+Contiene coordinación: bilateral hilar, mediastinal and subcarinal calcified lymphadenopathy
+bilateral bilateral ADJ JJ amod xxxx True False lymphadenopathy
+None
+hilar hilar ADJ JJ amod xxxx True False lymphadenopathy
+None
+, , PUNCT , punct , False False hilar
+None
+mediastinal mediastinal ADJ JJ conj xxxx True False hilar
+None
+and and CCONJ CC cc xxx True True mediastinal
+None
+subcarinal subcarinal ADJ JJ conj xxxx True False mediastinal
+None
+calcified calcified ADJ JJ amod xxxx True False lymphadenopathy
+None
+lymphadenopathy lymphadenopathy NOUN NN dobj xxxx True False demonstrate
+None
+Contiene coordinación: autoimmune and/or infectious etiology
+autoimmune autoimmune ADJ JJ amod xxxx True False etiology
+None
+and/or and/or CCONJ CC cc xxx/xx False False autoimmune
+None
+infectious infectious ADJ JJ amod xxxx True False etiology
+None
+etiology etiology NOUN NN pobj xxxx True False for
+None
+Contiene coordinación: cortical and deep gray matter
+cortical cortical ADJ JJ amod xxxx True False matter
+None
+and and CCONJ CC cc xxx True True cortical
+None
+deep deep ADJ JJ conj xxxx True False cortical
+None
+gray gray ADJ JJ amod xxxx True False matter
+None
+matter matter NOUN NN nsubjpass xxxx True False involved
+None
+Contiene coordinación: acute and subacute phase
+acute acute ADJ JJ amod xxxx True False phase
+None
+and and CCONJ CC cc xxx True True acute
+None
+subacute subacute ADJ JJ conj xxxx True False acute
+None
+phase phase NOUN NN pobj xxxx True False in
+None
+Contiene coordinación: vasculitis or venous occlusion
+vasculitis vasculitis ADJ JJ dobj xxxx True False illustrate
+None
+or or CCONJ CC cc xx True True vasculitis
+None
+venous venous ADJ JJ amod xxxx True False occlusion
+None
+occlusion occlusion NOUN NN conj xxxx True False vasculitis
+None
+Contiene coordinación: thorough and appropriate laboratory
+thorough thorough ADJ JJ amod xxxx True False laboratory
+None
+and and CCONJ CC cc xxx True True thorough
+None
+appropriate appropriate ADJ JJ conj xxxx True False thorough
+None
+laboratory laboratory NOUN NN nsubj xxxx True False guide
+None
+Contiene coordinación: bilateral paraspinal and gluteus muscles
+bilateral bilateral ADJ JJ amod xxxx True False paraspinal
+None
+paraspinal paraspinal ADJ JJ nmod xxxx True False muscles
+None
+and and CCONJ CC cc xxx True True paraspinal
+None
+gluteus gluteus NOUN NN conj xxxx True False paraspinal
+None
+muscles muscle NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: glomerular and peritubular capillary endothelium
+glomerular glomerular ADJ JJ amod xxxx True False endothelium
+None
+and and CCONJ CC cc xxx True True glomerular
+None
+peritubular peritubular ADJ JJ conj xxxx True False glomerular
+None
+capillary capillary ADJ JJ amod xxxx True False endothelium
+None
+endothelium endothelium NOUN NN pobj xxxx True False in
+None
+Contiene coordinación: active and sclerosing immune complex gn
+active active ADJ JJ oprd xxxx True False left
+None
+and and CCONJ CC cc xxx True True active
+None
+sclerosing sclerose VERB VBG conj xxxx True False active
+None
+immune immune ADJ JJ advmod xxxx True False complex
+None
+complex complex ADJ JJ conj xxxx True False active
+None
+gn gn PROPN NNP ROOT xx True False gn
+None
+Contiene coordinación: active and sclerosing immune complex gn
+active active ADJ JJ amod xxxx True False disease
+None
+and and CCONJ CC cc xxx True True active
+None
+sclerosing sclerose VERB VBG conj xxxx True False active
+None
+immune immune ADJ JJ amod xxxx True False complex
+None
+complex complex ADJ JJ dep xxxx True False showed
+None
+gn gn PROPN NNP ROOT xx True False gn
+None
+Contiene coordinación: nephritic and nephrotic conditions
+nephritic nephritic ADJ JJ amod xxxx True False conditions
+None
+and and CCONJ CC cc xxx True True nephritic
+None
+nephrotic nephrotic ADJ JJ conj xxxx True False nephritic
+None
+conditions condition NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: glomerular and peritubular capillary endothelium
+glomerular glomerular ADJ JJ amod xxxx True False endothelium
+None
+and and CCONJ CC cc xxx True True glomerular
+None
+peritubular peritubular ADJ JJ conj xxxx True False glomerular
+None
+capillary capillary ADJ JJ amod xxxx True False endothelium
+None
+endothelium endothelium NOUN NN pobj xxxx True False in
+None
+Contiene coordinación: active and chronic sclerosing lesions
+active active ADJ JJ amod xxxx True False lesions
+None
+and and CCONJ CC cc xxx True True active
+None
+chronic chronic ADJ JJ conj xxxx True False active
+None
+sclerosing sclerosing NOUN NN compound xxxx True False lesions
+None
+lesions lesion NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: active and chronic lesions
+active active ADJ JJ amod xxxx True False lesions
+None
+and and CCONJ CC cc xxx True True active
+None
+chronic chronic ADJ JJ conj xxxx True False active
+None
+lesions lesion NOUN NNS nmod xxxx True False nephritis
+None
+Contiene coordinación: focal proliferative and sclerosing lupus nephritis
+focal focal ADJ JJ amod xxxx True False proliferative
+None
+proliferative proliferative ADJ JJ conj xxxx True False lesions
+None
+and and CCONJ CC cc xxx True True proliferative
+None
+sclerosing sclerose VERB VBG conj xxxx True False proliferative
+None
+lupus lupus NOUN NN compound xxxx True False nephritis
+None
+nephritis nephritis NOUN NN appos xxxx True False iii
+None
+Contiene coordinación: subendothelial and mesangial electron
+subendothelial subendothelial ADJ JJ nmod xxxx True False deposits
+None
+and and CCONJ CC cc xxx True True subendothelial
+None
+mesangial mesangial ADJ JJ conj xxxx True False subendothelial
+None
+electron electron NOUN NN npadvmod xxxx True False dense
+None
+Contiene coordinación: non-immunosuppressive and immunosuppressive therapies
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False immunosuppressive
+None
+immunosuppressive immunosuppressive ADJ JJ amod xxxx True False therapies
+None
+and and CCONJ CC cc xxx True True immunosuppressive
+None
+immunosuppressive immunosuppressive ADJ JJ conj xxxx True False immunosuppressive
+None
+therapies therapy NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: crampy, non-radiating, lower back
+crampy crampy ADJ JJ amod xxxx True False pain
+None
+, , PUNCT , punct , False False crampy
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False radiating
+None
+radiating radiating ADJ JJ amod xxxx True False pain
+None
+, , PUNCT , punct , False False lower
+None
+lower low ADJ JJR dep xxxx True False back
+None
+back back NOUN NN nmod xxxx True True buttocks
+None
+Contiene coordinación: pedunculated or sessile bony excrescence
+pedunculated pedunculated ADJ JJ amod xxxx True False excrescence
+None
+or or CCONJ CC cc xx True True pedunculated
+None
+sessile sessile ADJ JJ amod xxxx True False bony
+None
+bony bony ADJ JJ conj xxxx True False pedunculated
+None
+excrescence excrescence NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: central or foraminal stenosis
+central central ADJ JJ amod xxxx True False stenosis
+None
+or or CCONJ CC cc xx True True central
+None
+foraminal foraminal ADJ JJ conj xxxx True False central
+None
+stenosis stenosis NOUN NN pobj xxxx True False without
+None
+Contiene coordinación: developed sebaceous and eccrine sweat glands
+developed develop VERB VBN amod xxxx True False glands
+None
+sebaceous sebaceous ADJ JJ amod xxxx True False glands
+None
+and and CCONJ CC cc xxx True True sebaceous
+None
+eccrine eccrine ADJ JJ conj xxxx True False sebaceous
+None
+sweat sweat NOUN NN conj xxxx True False sebaceous
+None
+glands gland NOUN NNS pobj xxxx True False with
+None
+Contiene coordinación: developed and segmented axial skeleton
+developed developed ADJ JJ amod xxxx True False skeleton
+None
+and and CCONJ CC cc xxx True True developed
+None
+segmented segmented ADJ JJ conj xxxx True False developed
+None
+axial axial ADJ JJ amod xxxx True False skeleton
+None
+skeleton skeleton NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: selected hard and soft tissues
+selected select VERB VBN amod xxxx True False tissues
+None
+hard hard ADJ JJ amod xxxx True False tissues
+None
+and and CCONJ CC cc xxx True True hard
+None
+soft soft ADJ JJ conj xxxx True False hard
+None
+tissues tissue NOUN NNS pobj xxxx True False in
+None
+Contiene coordinación: involving left parietal and temporal bones
+involving involve VERB VBG acl xxxx True False lesions
+None
+left left ADJ JJ amod xxxx True False bones
+None
+parietal parietal ADJ JJ amod xxxx True False bones
+None
+and and CCONJ CC cc xxx True True parietal
+None
+temporal temporal ADJ JJ conj xxxx True False parietal
+None
+bones bone NOUN NNS dobj xxxx True False involving
+None
+Contiene coordinación: close clinical and radiographic follow
+close close ADJ JJ amod xxxx True False up
+None
+clinical clinical ADJ JJ amod xxxx True False up
+None
+and and CCONJ CC cc xxx True True clinical
+None
+radiographic radiographic ADJ JJ conj xxxx True False clinical
+None
+follow follow NOUN NN compound xxxx True False up
+None
+Contiene coordinación: diminished or absent superficial reflexes
+diminished diminished ADJ JJ conj xxxx True False drift
+None
+or or CCONJ CC cc xx True True diminished
+None
+absent absent ADJ JJ amod xxxx True False reflexes
+None
+superficial superficial ADJ JJ amod xxxx True False reflexes
+None
+reflexes reflex NOUN NNS conj xxxx True False diminished
+None
+Contiene coordinación: abdominal and cremasteric reflexes
+abdominal abdominal ADJ JJ amod xxxx True False reflexes
+None
+and and CCONJ CC cc xxx True True abdominal
+None
+cremasteric cremasteric ADJ JJ conj xxxx True False abdominal
+None
+reflexes reflex NOUN NNS pobj xxxx True False as
+None
+Contiene coordinación: anterior and posterior abdominal muscles
+anterior anterior ADJ JJ amod xxxx True False muscles
+None
+and and CCONJ CC cc xxx True True anterior
+None
+posterior posterior ADJ JJ conj xxxx True False anterior
+None
+abdominal abdominal ADJ JJ amod xxxx True False muscles
+None
+muscles muscle NOUN NNS dobj xxxx True False innervate
+None
+Contiene coordinación: left and mild left foraminal stenosis
+left left ADJ JJ amod xxxx True False left
+None
+and and CCONJ CC cc xxx True True left
+None
+mild mild ADJ JJ conj xxxx True False left
+None
+left left ADJ JJ amod xxxx True False stenosis
+None
+foraminal foraminal ADJ JJ amod xxxx True False stenosis
+None
+stenosis stenosis NOUN NN pobj xxxx True False on
+None
+Contiene coordinación: subacute and chronic low back pain
+subacute subacute ADJ JJ amod xxxx True False 2
+None
+and and CCONJ CC cc xxx True True subacute
+None
+chronic chronic ADJ JJ conj xxxx True False subacute
+None
+low low ADJ JJ amod xxx True False back
+None
+back back ADJ JJ compound xxxx True True pain
+None
+pain pain NOUN NN appos xxxx True False york
+None
+Contiene coordinación: third, fourth and fifth digits
+third third ADJ JJ amod xxxx True True digits
+None
+, , PUNCT , punct , False False third
+None
+fourth fourth ADJ JJ conj xxxx True False third
+None
+and and CCONJ CC cc xxx True True fourth
+None
+fifth fifth ADJ JJ conj xxxx True False fourth
+None
+digits digit NOUN NNS pobj xxxx True False into
+None
+Contiene coordinación: left dorsal and ventral hepatic biliary system
+left left ADJ JJ amod xxxx True False system
+None
+dorsal dorsal ADJ JJ nmod xxxx True False system
+None
+and and CCONJ CC cc xxx True True dorsal
+None
+ventral ventral ADJ JJ conj xxxx True False dorsal
+None
+hepatic hepatic ADJ JJ amod xxxx True False system
+None
+biliary biliary ADJ JJ amod xxxx True False system
+None
+system system NOUN NN pobj xxxx True False within
+None
+Contiene coordinación: routine cholangiogram and biliary stone removal
+routine routine ADJ JJ amod xxxx True False cholangiogram
+None
+cholangiogram cholangiogram ADJ JJ dobj xxxx True False undergoes
+None
+and and CCONJ CC cc xxx True True cholangiogram
+None
+biliary biliary ADJ JJ amod xxxx True False stone
+None
+stone stone NOUN NN compound xxxx True False removal
+None
+removal removal NOUN NN conj xxxx True False cholangiogram
+None
+Contiene coordinación: combined surgical and radiologic approach
+combined combine VERB VBN amod xxxx True False approach
+None
+surgical surgical ADJ JJ amod xxxx True False approach
+None
+and and CCONJ CC cc xxx True True surgical
+None
+radiologic radiologic ADJ JJ conj xxxx True False surgical
+None
+approach approach NOUN NN appos xxxx True False kr
+None
+Contiene coordinación: infectious or malignant causes
+infectious infectious ADJ JJ amod xxxx True False causes
+None
+or or CCONJ CC cc xx True True infectious
+None
+malignant malignant ADJ JJ conj xxxx True False infectious
+None
+causes cause NOUN NNS dobj xxxx True False rule
+None
+Contiene coordinación: right temporal and parietal lobes
+right right ADJ JJ amod xxxx True False lobes
+None
+temporal temporal ADJ JJ amod xxxx True False lobes
+None
+and and CCONJ CC cc xxx True True temporal
+None
+parietal parietal ADJ JJ conj xxxx True False temporal
+None
+lobes lobe NOUN NNS pobj xxxx True False in
+None
+Contiene coordinación: normal arterial and venous blood flow
+normal normal ADJ JJ amod xxxx True False flow
+None
+arterial arterial ADJ JJ amod xxxx True False flow
+None
+and and CCONJ CC cc xxx True True arterial
+None
+venous venous ADJ JJ conj xxxx True False arterial
+None
+blood blood NOUN NN compound xxxx True False flow
+None
+flow flow NOUN NN dobj xxxx True False demonstrates
+None
+Contiene coordinación: post-surgical or traumatic csf leaks
+post post ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False surgical
+None
+surgical surgical ADJ JJ amod xxxx True False leaks
+None
+or or CCONJ CC cc xx True True surgical
+None
+traumatic traumatic ADJ JJ conj xxxx True False surgical
+None
+csf csf NOUN NN compound xxx True False leaks
+None
+leaks leak NOUN NNS nmod xxxx True False studies
+None
+Contiene coordinación: left and right anterior oblique images
+left left ADJ JJ amod xxxx True False images
+None
+and and CCONJ CC cc xxx True True left
+None
+right right ADJ JJ amod xxxx True False images
+None
+anterior anterior ADJ JJ amod xxxx True False images
+None
+oblique oblique ADJ JJ amod xxxx True False images
+None
+images image NOUN NNS nsubjpass xxxx True False acquired
+None
+Contiene coordinación: intercostal, internal thoracic and thyrocervical trunk branches
+intercostal intercostal ADJ JJ amod xxxx True False branches
+None
+, , PUNCT , punct , False False intercostal
+None
+internal internal ADJ JJ amod xxxx True False thoracic
+None
+thoracic thoracic ADJ JJ conj xxxx True False intercostal
+None
+and and CCONJ CC cc xxx True True thoracic
+None
+thyrocervical thyrocervical ADJ JJ conj xxxx True False thoracic
+None
+trunk trunk NOUN NN conj xxxx True False thoracic
+None
+branches branch NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: concomitant lymphadenopathy and parenchymal disease
+concomitant concomitant ADJ JJ amod xxxx True False disease
+None
+lymphadenopathy lymphadenopathy ADJ JJ amod xxxx True False disease
+None
+and and CCONJ CC cc xxx True True lymphadenopathy
+None
+parenchymal parenchymal NOUN NN conj xxxx True False lymphadenopathy
+None
+disease disease NOUN NN appos xxxx True False i
+None
+Contiene coordinación: bilateral hilar and right paratracheal lymph enlargement
+bilateral bilateral ADJ JJ amod xxxx True False hilar
+None
+hilar hilar ADJ JJ amod xxxx True False paratracheal
+None
+and and CCONJ CC cc xxx True True hilar
+None
+right right ADJ JJ conj xxxx True False hilar
+None
+paratracheal paratracheal ADJ JJ compound xxxx True False enlargement
+None
+lymph lymph NOUN NN compound xxxx True False enlargement
+None
+enlargement enlargement NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: demonstrating both good and poor outcomes
+demonstrating demonstrate VERB VBG acl xxxx True False case
+None
+both both CCONJ CC det xxxx True True outcomes
+None
+good good ADJ JJ amod xxxx True False outcomes
+None
+and and CCONJ CC cc xxx True True good
+None
+poor poor ADJ JJ conj xxxx True False good
+None
+outcomes outcome NOUN NNS dobj xxxx True False demonstrating
+None
+Contiene coordinación: lumbar and cervical spine
+lumbar lumbar ADJ JJ nmod xxxx True False spine
+None
+and and CCONJ CC cc xxx True True lumbar
+None
+cervical cervical ADJ JJ conj xxxx True False lumbar
+None
+spine spine NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: normal upper and mid-pole contour
+normal normal ADJ JJ amod xxxx True False contour
+None
+upper upper ADJ JJ amod xxxx True False contour
+None
+and and CCONJ CC cc xxx True True upper
+None
+mid mid ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False pole
+None
+pole pole ADJ JJ conj xxxx True False upper
+None
+contour contour NOUN NN dobj xxxx True False show
+None
+Contiene coordinación: multifocal or contralateral involvement
+multifocal multifocal ADJ JJ amod xxxx True False involvement
+None
+or or CCONJ CC cc xx True True multifocal
+None
+contralateral contralateral ADJ JJ conj xxxx True False multifocal
+None
+involvement involvement NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: small, regular non-cohesive cells arranged
+small small ADJ JJ amod xxxx True False cells
+None
+, , PUNCT , punct , False False cells
+None
+regular regular ADJ JJ amod xxxx True False cells
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False cohesive
+None
+cohesive cohesive ADJ JJ amod xxxx True False cells
+None
+cells cell NOUN NNS pobj xxxx True False of
+None
+arranged arrange VERB VBN acl xxxx True False cells
+None
+Contiene coordinación: soft, non-tender. positive bowel sounds
+soft soft ADJ JJ appos xxxx True False gi
+None
+, , PUNCT , punct , False False soft
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False tender
+None
+tender tender ADJ JJ conj xxxx True False soft
+None
+. . PUNCT . punct . False False gi
+None
+positive positive ADJ JJ amod xxxx True False sounds
+None
+bowel bowel NOUN NN amod xxxx True False sounds
+None
+sounds sound NOUN NNS ROOT xxxx True False sounds
+None
+Contiene coordinación: showing solid nodular or cystic lesions
+showing show VERB VBG acl xxxx True False images
+None
+solid solid ADJ JJ amod xxxx True False lesions
+None
+nodular nodular ADJ JJ amod xxxx True False lesions
+None
+or or CCONJ CC cc xx True True nodular
+None
+cystic cystic ADJ JJ conj xxxx True False nodular
+None
+lesions lesion NOUN NNS dobj xxxx True False showing
+None
+Contiene coordinación: gastric, small bowell and large bowell distension
+gastric gastric ADJ JJ dobj xxxx True False marked
+None
+, , PUNCT , punct , False False gastric
+None
+small small ADJ JJ amod xxxx True False bowell
+None
+bowell bowell ADJ JJ conj xxxx True False gastric
+None
+and and CCONJ CC cc xxx True True bowell
+None
+large large ADJ JJ amod xxxx True False distension
+None
+bowell bowell ADJ JJ compound xxxx True False distension
+None
+distension distension NOUN NN conj xxxx True False bowell
+None
+Contiene coordinación: pelvic and lower extremities
+pelvic pelvic ADJ JJ amod xxxx True False symptoms
+None
+and and CCONJ CC cc xxx True True pelvic
+None
+lower low ADJ JJR conj xxxx True False pelvic
+None
+extremities extremity NOUN NNS compound xxxx True False symptoms
+None
+Contiene coordinación: epithelial, metastatic medullary thyroid carcinoma
+epithelial epithelial ADJ JJ amod xxxx True False carcinoma
+None
+, , PUNCT , punct , False False carcinoma
+None
+metastatic metastatic ADJ JJ amod xxxx True False carcinoma
+None
+medullary medullary ADJ JJ amod xxxx True False thyroid
+None
+thyroid thyroid NOUN NN compound xxxx True False carcinoma
+None
+carcinoma carcinoma NOUN NN nsubj xxxx True False admitted
+None
+Contiene coordinación: identified and images
+identified identify VERB VBN ROOT xxxx True False identified
+None
+and and CCONJ CC cc xxx True True identified
+None
+images image NOUN NNS nsubjpass xxxx True False reviewed
+None
+Contiene coordinación: undiagnosed and unrepaired disruptions
+undiagnosed undiagnosed ADJ JJ amod xxxx True False disruptions
+None
+and and CCONJ CC cc xxx True True undiagnosed
+None
+unrepaired unrepaired ADJ JJ conj xxxx True False undiagnosed
+None
+disruptions disruption NOUN NNS nsubj xxxx True False lead
+None
+Contiene coordinación: small and insignificant bone
+small small ADJ JJ amod xxxx True False bone
+None
+and and CCONJ CC cc xxx True True small
+None
+insignificant insignificant ADJ JJ conj xxxx True False small
+None
+bone bone NOUN NN pobj xxxx True False like
+None
+Contiene coordinación: left, coarse linear calcifications seen
+left left ADJ JJ pcomp xxxx True False than
+None
+, , PUNCT , punct , False False calcifications
+None
+coarse coarse ADJ JJ amod xxxx True False calcifications
+None
+linear linear ADJ JJ amod xxxx True False calcifications
+None
+calcifications calcification NOUN NNS dobj xxxx True False demonstrate
+None
+seen see VERB VBN acl xxxx True False calcifications
+None
+Contiene coordinación: intrarenal or perirenal soft tissue changes
+intrarenal intrarenal ADJ JJ amod xxxx True False changes
+None
+or or CCONJ CC cc xx True True intrarenal
+None
+perirenal perirenal ADJ JJ conj xxxx True False intrarenal
+None
+soft soft ADJ JJ amod xxxx True False tissue
+None
+tissue tissue NOUN NN compound xxxx True False changes
+None
+changes change NOUN NNS nsubj xxxx True False contributing
+None
+Contiene coordinación: effective and efficient communication
+effective effective ADJ JJ amod xxxx True False communication
+None
+and and CCONJ CC cc xxx True True effective
+None
+efficient efficient ADJ JJ conj xxxx True False effective
+None
+communication communication NOUN NN dobj xxxx True False permits
+None
+Contiene coordinación: incidental renal and adrenal masses
+incidental incidental ADJ JJ amod xxxx True False masses
+None
+renal renal ADJ JJ amod xxxx True False masses
+None
+and and CCONJ CC cc xxx True True renal
+None
+adrenal adrenal ADJ JJ conj xxxx True False renal
+None
+masses masse NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: multiple, bilateral renal cysts
+multiple multiple ADJ JJ amod xxxx True False cysts
+None
+, , PUNCT , punct , False False cysts
+None
+bilateral bilateral ADJ JJ amod xxxx True False cysts
+None
+renal renal ADJ JJ amod xxxx True False cysts
+None
+cysts cyst NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: unnecessary, aggressive procedures
+unnecessary unnecessary ADJ JJ amod xxxx True False procedures
+None
+, , PUNCT , punct , False False procedures
+None
+aggressive aggressive ADJ JJ amod xxxx True False procedures
+None
+procedures procedure NOUN NNS dobj xxxx True False receiving
+None
+Contiene coordinación: involving small and/or large bowel
+involving involve VERB VBG acl xxxx True False intestinalis
+None
+small small ADJ JJ amod xxxx True False bowel
+None
+and/or and/or CCONJ CC cc xxx/xx False False small
+None
+large large ADJ JJ amod xxxx True False bowel
+None
+bowel bowel NOUN NN dobj xxxx True False involving
+None
+Contiene coordinación: cerebellar swelling or basilar artery thrombosis
+cerebellar cerebellar ADJ JJ amod xxxx True False swelling
+None
+swelling swell VERB VBG pobj xxxx True False of
+None
+or or CCONJ CC cc xx True True swelling
+None
+basilar basilar ADJ JJ amod xxxx True False thrombosis
+None
+artery artery NOUN NN compound xxxx True False thrombosis
+None
+thrombosis thrombosis NOUN NN conj xxxx True False swelling
+None
+Contiene coordinación: soft, non-tender, non-distended, hyperactive bowel sounds
+soft soft ADJ JJ amod xxxx True False sounds
+None
+, , PUNCT , punct , False False soft
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False tender
+None
+tender tender ADJ JJ dep xxxx True False -
+None
+, , PUNCT , dep , False False -
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False distended
+None
+distended distended ADJ JJ amod xxxx True False sounds
+None
+, , PUNCT , punct , False False sounds
+None
+hyperactive hyperactive ADJ JJ amod xxxx True False sounds
+None
+bowel bowel NOUN NN compound xxxx True False sounds
+None
+sounds sound VERB VBZ ROOT xxxx True False sounds
+None
+Contiene coordinación: mixed solid and cystic pancreatic lesions
+mixed mixed ADJ JJ amod xxxx True False lesions
+None
+solid solid ADJ JJ amod xxxx True False lesions
+None
+and and CCONJ CC cc xxx True True solid
+None
+cystic cystic ADJ JJ conj xxxx True False solid
+None
+pancreatic pancreatic ADJ JJ amod xxxx True False lesions
+None
+lesions lesion NOUN NNS pobj xxxx True False as
+None
+Contiene coordinación: non-projectile, non-bilious emesis
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False projectile
+None
+projectile projectile ADJ JJ conj xxxx True False male
+None
+, , PUNCT , punct , False False emesis
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False bilious
+None
+bilious bilious ADJ JJ amod xxxx True False emesis
+None
+emesis emesis NOUN NN conj xxxx True False male
+None
+Contiene coordinación: demonstrating both superficial and deep venous drainage
+demonstrating demonstrate VERB VBG conj xxxx True False involving
+None
+both both CCONJ CC preconj xxxx True True superficial
+None
+superficial superficial ADJ JJ amod xxxx True False drainage
+None
+and and CCONJ CC cc xxx True True superficial
+None
+deep deep ADJ JJ conj xxxx True False superficial
+None
+venous venous ADJ JJ amod xxxx True False drainage
+None
+drainage drainage NOUN NN dobj xxxx True False demonstrating
+None
+Contiene coordinación: cervical and lumbar spine
+cervical cervical ADJ JJ amod xxxx True False spine
+None
+and and CCONJ CC cc xxx True True cervical
+None
+lumbar lumbar ADJ JJ conj xxxx True False cervical
+None
+spine spine NOUN NN pobj xxxx True False to
+None
+Contiene coordinación: sloughing and epidermal loss
+sloughing slough VERB VBG pobj xxxx True False with
+None
+and and CCONJ CC cc xxx True True sloughing
+None
+epidermal epidermal ADJ JJ conj xxxx True False sloughing
+None
+loss loss NOUN NN conj xxxx True False sloughing
+None
+Contiene coordinación: cervical and lumbar disc herniations
+cervical cervical ADJ JJ amod xxxx True False herniations
+None
+and and CCONJ CC cc xxx True True cervical
+None
+lumbar lumbar NOUN NN conj xxxx True False cervical
+None
+disc disc NOUN NN compound xxxx True False herniations
+None
+herniations herniation NOUN NNS ROOT xxxx True False herniations
+None
+Contiene coordinación: dermatological and ophthalmic sequelae
+dermatological dermatological ADJ JJ amod xxxx True False sequelae
+None
+and and CCONJ CC cc xxx True True dermatological
+None
+ophthalmic ophthalmic ADJ JJ conj xxxx True False dermatological
+None
+sequelae sequela NOUN NNS pobj xxxx True False with
+None
+Contiene coordinación: bilateral upper and lower extremity
+bilateral bilateral ADJ JJ amod xxxx True False polyneuropathy
+None
+upper upper ADJ JJ amod xxxx True False polyneuropathy
+None
+and and CCONJ CC cc xxx True True upper
+None
+lower low ADJ JJR conj xxxx True False upper
+None
+extremity extremity NOUN NN conj xxxx True False upper
+None
+Contiene coordinación: left and right foraminal narrowing seen
+left left ADJ JJ pobj xxxx True False to
+None
+and and CCONJ CC cc xxx True True left
+None
+right right ADJ JJ conj xxxx True False left
+None
+foraminal foraminal ADJ JJ conj xxxx True False left
+None
+narrowing narrowing NOUN NN pobj xxxx True False with
+None
+seen see VERB VBN xcomp xxxx True False left
+None
+Contiene coordinación: thoracic and lumbar spine
+thoracic thoracic ADJ JJ amod xxxx True False spine
+None
+and and CCONJ CC cc xxx True True thoracic
+None
+lumbar lumbar ADJ JJ conj xxxx True False thoracic
+None
+spine spine NOUN NN nmod xxxx True False view
+None
+Contiene coordinación: thoracic and lumbar spine
+thoracic thoracic ADJ JJ amod xxxx True False spine
+None
+and and CCONJ CC cc xxx True True thoracic
+None
+lumbar lumbar ADJ JJ conj xxxx True False thoracic
+None
+spine spine NOUN NN nmod xxxx True False view
+None
+Contiene coordinación: thoracic and lumbar spine
+thoracic thoracic ADJ JJ amod xxxx True False spine
+None
+and and CCONJ CC cc xxx True True thoracic
+None
+lumbar lumbar ADJ JJ conj xxxx True False thoracic
+None
+spine spine NOUN NN nmod xxxx True False view
+None
+Contiene coordinación: cervical and thoracic region
+cervical cervical ADJ JJ amod xxxx True False region
+None
+and and CCONJ CC cc xxx True True cervical
+None
+thoracic thoracic ADJ JJ conj xxxx True False cervical
+None
+region region NOUN NN pobj xxxx True False within
+None
+Contiene coordinación: sensory and motor changes
+sensory sensory ADJ JJ amod xxxx True False changes
+None
+and and CCONJ CC cc xxx True True sensory
+None
+motor motor NOUN NN conj xxxx True False sensory
+None
+changes change NOUN NNS conj xxxx True False gait
+None
+Contiene coordinación: intramedullary and subdural hemorrhage
+intramedullary intramedullary ADJ JJ nmod xxxx True False hemorrhage
+None
+and and CCONJ CC cc xxx True True intramedullary
+None
+subdural subdural ADJ JJ conj xxxx True False intramedullary
+None
+hemorrhage hemorrhage NOUN NN pobj xxxx True False by
+None
+Contiene coordinación: investigating targeted biological and gene therapy
+investigating investigate VERB VBG acl xxxx True False trials
+None
+targeted target VERB VBN amod xxxx True False therapy
+None
+biological biological ADJ JJ amod xxxx True False therapy
+None
+and and CCONJ CC cc xxx True True biological
+None
+gene gene NOUN NN conj xxxx True False biological
+None
+therapy therapy NOUN NN dobj xxxx True False investigating
+None
+Contiene coordinación: additional risk factors include, living
+additional additional ADJ JJ amod xxxx True False factors
+None
+risk risk NOUN NN compound xxxx True False factors
+None
+factors factor NOUN NNS nsubj xxxx True False include
+None
+include include VERB VBP ROOT xxxx True False include
+None
+, , PUNCT , punct , False False include
+None
+living live VERB VBG advcl xxxx True False include
+None
+Contiene coordinación: intra or extrahepatic or pancreatic ductal dilatation
+intra intra ADJ JJ nmod xxxx True False dilatation
+None
+or or CCONJ CC cc xx True True intra
+None
+extrahepatic extrahepatic ADJ JJ conj xxxx True False intra
+None
+or or CCONJ CC cc xx True True extrahepatic
+None
+pancreatic pancreatic ADJ JJ conj xxxx True False extrahepatic
+None
+ductal ductal ADJ JJ compound xxxx True False dilatation
+None
+dilatation dilatation NOUN NN ROOT xxxx True False dilatation
+None
+Contiene coordinación: scfe or childhood hip dysplasia
+scfe scfe ADJ JJ pobj xxxx True False of
+None
+or or CCONJ CC cc xx True True scfe
+None
+childhood childhood NOUN NN compound xxxx True False hip
+None
+hip hip NOUN NN compound xxx True False dysplasia
+None
+dysplasia dysplasia NOUN NN conj xxxx True False scfe
+None
+Contiene coordinación: chronic left and right s1 radiculopathies
+chronic chronic ADJ JJ amod xxxx True False left
+None
+left left ADJ JJ dobj xxxx True False demonstrated
+None
+and and CCONJ CC cc xxx True True left
+None
+right right ADJ JJ amod xxxx True False radiculopathies
+None
+s1 s1 NOUN NN compound xd False False radiculopathies
+None
+radiculopathies radiculopathie NOUN NNS conj xxxx True False left
+None
+Contiene coordinación: single, solid mass arising
+single single ADJ JJ amod xxxx True False mass
+None
+, , PUNCT , punct , False False mass
+None
+solid solid ADJ JJ amod xxxx True False mass
+None
+mass mass NOUN NN attr xxxx True False is
+None
+arising arise VERB VBG acl xxxx True False mass
+None
+Contiene coordinación: bulging and left central osteophytes
+bulging bulge VERB VBG csubj xxxx True False impinge
+None
+and and CCONJ CC cc xxx True True bulging
+None
+left left ADJ JJ conj xxxx True False bulging
+None
+central central ADJ JJ amod xxxx True False osteophytes
+None
+osteophytes osteophyte NOUN NNS dobj xxxx True False left
+None
+Contiene coordinación: significant receptive, expressive and articulation deficits resulting
+significant significant ADJ JJ amod xxxx True False deficits
+None
+receptive receptive ADJ JJ amod xxxx True False deficits
+None
+, , PUNCT , punct , False False receptive
+None
+expressive expressive ADJ JJ conj xxxx True False receptive
+None
+and and CCONJ CC cc xxx True True expressive
+None
+articulation articulation NOUN NN conj xxxx True False expressive
+None
+deficits deficit NOUN NNS dobj xxxx True False showed
+None
+resulting result VERB VBG acl xxxx True False deficits
+None
+Contiene coordinación: wasted and post-operative recovery course
+wasted waste VERB VBN ROOT xxxx True False wasted
+None
+and and CCONJ CC cc xxx True True wasted
+None
+post post ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False operative
+None
+operative operative ADJ JJ amod xxxx True False course
+None
+recovery recovery NOUN NN compound xxxx True False course
+None
+course course NOUN NN nsubjpass xxxx True False slowed
+None
+Contiene coordinación: mixed high and low t1 signal abnormalities
+mixed mix VERB VBN amod xxxx True False abnormalities
+None
+high high ADJ JJ amod xxxx True False abnormalities
+None
+and and CCONJ CC cc xxx True True high
+None
+low low ADJ JJ conj xxx True False high
+None
+t1 t1 NOUN NN conj xd False False high
+None
+signal signal NOUN NN compound xxxx True False abnormalities
+None
+abnormalities abnormality NOUN NNS dobj xxxx True False demonstrate
+None
+Contiene coordinación: intra-axial or extra-axial collections
+intra intra ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False axial
+None
+axial axial ADJ JJ amod xxxx True False collections
+None
+or or CCONJ CC cc xx True True axial
+None
+extra extra ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False axial
+None
+axial axial ADJ JJ amod xxxx True False collections
+None
+collections collection NOUN NNS attr xxxx True False are
+None
+Contiene coordinación: external oblique, pectoralis minor
+external external ADJ JJ amod xxxx True False minor
+None
+oblique oblique ADJ JJ amod xxxx True False minor
+None
+, , PUNCT , punct , False False minor
+None
+pectoralis pectoralis ADJ JJ amod xxxx True False minor
+None
+minor minor NOUN NN conj xxxx True False serratus
+None
+Contiene coordinación: low and high signal cyst posterior
+low low ADJ JJ amod xxx True False signal
+None
+and and CCONJ CC cc xxx True True low
+None
+high high ADJ JJ conj xxxx True False low
+None
+signal signal NOUN NN compound xxxx True False posterior
+None
+cyst cyst NOUN NN compound xxxx True False posterior
+None
+posterior posterior NOUN NN dobj xxxx True False show
+None
+Contiene coordinación: social: non-drinker, non-smoker
+social social ADJ JJ amod xxxx True False meds
+None
+: : PUNCT : punct : False False social
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False drinker
+None
+drinker drinker ADJ JJ appos xxxx True False social
+None
+, , PUNCT , dep , False False non
+None
+non non ADJ JJ dep xxx True False -
+None
+- - NOUN NN dep - False False smoker
+None
+smoker smoker NOUN NN conj xxxx True False social
+None
+Contiene coordinación: microscopic, clinical and imaging features
+microscopic microscopic ADJ JJ amod xxxx True False features
+None
+, , PUNCT , punct , False False microscopic
+None
+clinical clinical ADJ JJ conj xxxx True False microscopic
+None
+and and CCONJ CC cc xxx True True clinical
+None
+imaging imaging NOUN NN conj xxxx True False clinical
+None
+features feature VERB VBZ pobj xxxx True False of
+None
+Contiene coordinación: possible deleterious psychologic and economic burdens
+possible possible ADJ JJ amod xxxx True False burdens
+None
+deleterious deleterious ADJ JJ amod xxxx True False burdens
+None
+psychologic psychologic ADJ JJ amod xxxx True False burdens
+None
+and and CCONJ CC cc xxx True True psychologic
+None
+economic economic ADJ JJ conj xxxx True False psychologic
+None
+burdens burden NOUN NNS conj xxxx True False rates
+None
+Contiene coordinación: herniated or protruding disc
+herniated herniated ADJ JJ pobj xxxx True False the
+None
+or or CCONJ CC cc xx True True herniated
+None
+protruding protruding ADJ JJ amod xxxx True False disc
+None
+disc disc NOUN NN conj xxxx True False herniated
+None
+Contiene coordinación: manipulative and physiological therapeutics
+manipulative manipulative ADJ JJ amod xxxx True False therapeutics
+None
+and and CCONJ CC cc xxx True True manipulative
+None
+physiological physiological ADJ JJ conj xxxx True False manipulative
+None
+therapeutics therapeutic NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: investigating targeted biological and gene therapy
+investigating investigate VERB VBG acl xxxx True False trials
+None
+targeted target VERB VBN amod xxxx True False therapy
+None
+biological biological ADJ JJ amod xxxx True False therapy
+None
+and and CCONJ CC cc xxx True True biological
+None
+gene gene NOUN NN conj xxxx True False biological
+None
+therapy therapy NOUN NN dobj xxxx True False investigating
+None
+Contiene coordinación: additional risk factors include, living
+additional additional ADJ JJ amod xxxx True False factors
+None
+risk risk NOUN NN compound xxxx True False factors
+None
+factors factor NOUN NNS nsubj xxxx True False include
+None
+include include VERB VBP ROOT xxxx True False include
+None
+, , PUNCT , punct , False False include
+None
+living live VERB VBG advcl xxxx True False include
+None
+Contiene coordinación: extra-axial, middle cranial fossa mass
+extra extra ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False axial
+None
+axial axial ADJ JJ amod xxxx True False mass
+None
+, , PUNCT , punct , False False mass
+None
+middle middle ADJ JJ amod xxxx True False mass
+None
+cranial cranial ADJ JJ amod xxxx True False fossa
+None
+fossa fossa NOUN NN compound xxxx True False mass
+None
+mass mass NOUN NN ROOT xxxx True False mass
+None
+Contiene coordinación: rare, non-heritable disorder characterized
+rare rare ADJ JJ amod xxxx True False disorder
+None
+, , PUNCT , punct , False False disorder
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False heritable
+None
+heritable heritable ADJ JJ amod xxxx True False disorder
+None
+disorder disorder NOUN NN attr xxxx True False is
+None
+characterized characterize VERB VBN acl xxxx True False disorder
+None
+Contiene coordinación: medial and lateral posterior choroidal and posterior pericallosal vessels
+medial medial ADJ JJ amod xxxx True False vessels
+None
+and and CCONJ CC cc xxx True True medial
+None
+lateral lateral ADJ JJ conj xxxx True False medial
+None
+posterior posterior ADJ JJ amod xxxx True False vessels
+None
+choroidal choroidal ADJ JJ amod xxxx True False vessels
+None
+and and CCONJ CC cc xxx True True choroidal
+None
+posterior posterior ADJ JJ conj xxxx True False choroidal
+None
+pericallosal pericallosal NOUN NN compound xxxx True False vessels
+None
+vessels vessel NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: complex and moderate bilateral foraminal stenosis
+complex complex ADJ JJ amod xxxx True False stenosis
+None
+and and CCONJ CC cc xxx True True complex
+None
+moderate moderate ADJ JJ conj xxxx True False complex
+None
+bilateral bilateral ADJ JJ amod xxxx True False stenosis
+None
+foraminal foraminal ADJ JJ amod xxxx True False stenosis
+None
+stenosis stenosis NOUN NN ROOT xxxx True False stenosis
+None
+Contiene coordinación: upper or lower arm
+upper upper ADJ JJ amod xxxx True False arm
+None
+or or CCONJ CC cc xx True True upper
+None
+lower low ADJ JJR conj xxxx True False upper
+None
+arm arm NOUN NN pobj xxx True False to
+None
+Contiene coordinación: mild ureteral and collecting system dilation w/
+mild mild ADJ JJ amod xxxx True False ureteral
+None
+ureteral ureteral ADJ JJ ROOT xxxx True False ureteral
+None
+and and CCONJ CC cc xxx True True ureteral
+None
+collecting collect VERB VBG conj xxxx True False ureteral
+None
+system system NOUN NN compound xxxx True False dilation
+None
+dilation dilation NOUN NN ROOT xxxx True False dilation
+None
+w/ w/ PROPN NNP advmod x/ False False mild
+None
+Contiene coordinación: functional or anatomic unstable motor unit
+functional functional ADJ JJ amod xxxx True False unit
+None
+or or CCONJ CC cc xx True True functional
+None
+anatomic anatomic ADJ JJ conj xxxx True False functional
+None
+unstable unstable ADJ JJ amod xxxx True False unit
+None
+motor motor NOUN NN compound xxxx True False unit
+None
+unit unit NOUN NN pobj xxxx True False for
+None
+Contiene coordinación: overall, lumbar instability
+overall overall ADJ JJ advmod xxxx True False is
+None
+, , PUNCT , punct , False False is
+None
+lumbar lumbar ADJ JJ compound xxxx True False instability
+None
+instability instability NOUN NN nsubj xxxx True False is
+None
+Contiene coordinación: large or complex tear
+large large ADJ JJ amod xxxx True False tear
+None
+or or CCONJ CC cc xx True True large
+None
+complex complex ADJ JJ conj xxxx True False large
+None
+tear tear NOUN NN dobj xxxx True False demonstrates
+None
+Contiene coordinación: non-operative and operative management
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False operative
+None
+operative operative ADJ JJ amod xxxx True False management
+None
+and and CCONJ CC cc xxx True True operative
+None
+operative operative ADJ JJ conj xxxx True False operative
+None
+management management NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: coronal and axial t2
+coronal coronal ADJ JJ amod xxxx True False mri
+None
+and and CCONJ CC cc xxx True True coronal
+None
+axial axial ADJ JJ conj xxxx True False coronal
+None
+t2 t2 PROPN NNP conj xd False False coronal
+None
+Contiene coordinación: arthroscopic or open, partial arthroscopic meniscectomy
+arthroscopic arthroscopic ADJ JJ conj xxxx True False approaches
+None
+or or CCONJ CC cc xx True True arthroscopic
+None
+open open ADJ JJ conj xxxx True False arthroscopic
+None
+, , PUNCT , punct , False False meniscectomy
+None
+partial partial ADJ JJ amod xxxx True False meniscectomy
+None
+arthroscopic arthroscopic ADJ JJ amod xxxx True False meniscectomy
+None
+meniscectomy meniscectomy NOUN NN nsubjpass xxxx True False preferred
+None
+Contiene coordinación: traumatic and non-traumatic injury
+traumatic traumatic ADJ JJ amod xxxx True False injury
+None
+and and CCONJ CC cc xxx True True traumatic
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False traumatic
+None
+traumatic traumatic ADJ JJ conj xxxx True False traumatic
+None
+injury injury NOUN NN conj xxxx True False signs
+None
+Contiene coordinación: lateral and medial menisci
+lateral lateral ADJ JJ amod xxxx True False menisci
+None
+and and CCONJ CC cc xxx True True lateral
+None
+medial medial ADJ JJ conj xxxx True False lateral
+None
+menisci meniscus NOUN NNS pobj xxxx True False to
+None
+Contiene coordinación: left knee flexed, losing
+left left ADJ JJ amod xxxx True False knee
+None
+knee knee NOUN NN pobj xxxx True False with
+None
+flexed flex VERB VBN advcl xxxx True False falling
+None
+, , PUNCT , punct , False False falling
+None
+losing lose VERB VBG advcl xxxx True False falling
+None
+Contiene coordinación: being intubated and requiring positive pressure
+being be AUX VBG auxpass xxxx True True intubated
+None
+intubated intubate VERB VBN pcomp xxxx True False of
+None
+and and CCONJ CC cc xxx True True intubated
+None
+requiring require VERB VBG conj xxxx True False intubated
+None
+positive positive ADJ JJ amod xxxx True False ventilation
+None
+pressure pressure NOUN NN npadvmod xxxx True False assisted
+None
+Contiene coordinación: left temporal and inferior frontal lobes
+left left ADJ JJ amod xxxx True False lobes
+None
+temporal temporal ADJ JJ amod xxxx True False lobes
+None
+and and CCONJ CC cc xxx True True temporal
+None
+inferior inferior ADJ JJ conj xxxx True False temporal
+None
+frontal frontal ADJ JJ amod xxxx True False lobes
+None
+lobes lobe NOUN NNS pobj xxxx True False in
+None
+Contiene coordinación: intrahepatic or common ductal dilatation
+intrahepatic intrahepatic ADJ JJ amod xxxx True False dilatation
+None
+or or CCONJ CC cc xx True True intrahepatic
+None
+common common ADJ JJ conj xxxx True False intrahepatic
+None
+ductal ductal ADJ JJ amod xxxx True False dilatation
+None
+dilatation dilatation NOUN NN nsubj xxxx True False was
+None
+Contiene coordinación: upper and middle lung zone predominance
+upper upper ADJ JJ amod xxxx True False zone
+None
+and and CCONJ CC cc xxx True True upper
+None
+middle middle ADJ JJ conj xxxx True False upper
+None
+lung lung NOUN NN compound xxxx True False zone
+None
+zone zone NOUN NN compound xxxx True False predominance
+None
+predominance predominance NOUN NN appos xxxx True False nodules
+None
+Contiene coordinación: thin walled and round cysts
+thin thin ADJ JJ amod xxxx True False cysts
+None
+walled walled ADJ JJ amod xxxx True False cysts
+None
+and and CCONJ CC cc xxx True True walled
+None
+round round ADJ JJ conj xxxx True False walled
+None
+cysts cyst NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: dilated, dysplastic upper poles
+dilated dilated ADJ JJ amod xxxx True False poles
+None
+, , PUNCT , punct , False False poles
+None
+dysplastic dysplastic ADJ JJ amod xxxx True False poles
+None
+upper upper ADJ JJ amod xxxx True False poles
+None
+poles pole NOUN NNS dobj xxxx True False demonstrate
+None
+Contiene coordinación: non-con, hepatic arterial phase
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False con
+None
+con con ADJ JJ appos xxx True False images
+None
+, , PUNCT , punct , False False images
+None
+hepatic hepatic ADJ JJ amod xxxx True False phase
+None
+arterial arterial ADJ JJ amod xxxx True False phase
+None
+phase phase NOUN NN appos xxxx True False images
+None
+Contiene coordinación: large distorted and inflamed benign mucosal polyp
+large large ADJ JJ amod xxxx True False polyp
+None
+distorted distorted ADJ JJ amod xxxx True False polyp
+None
+and and CCONJ CC cc xxx True True distorted
+None
+inflamed inflame VERB VBN conj xxxx True False distorted
+None
+benign benign ADJ JJ conj xxxx True False distorted
+None
+mucosal mucosal ADJ JJ amod xxxx True False polyp
+None
+polyp polyp NOUN NN dobj xxxx True False showed
+None
+Contiene coordinación: 8th cervical and 1st thoracic
+8th 8th ADJ JJ amod dxx False False thoracic
+None
+cervical cervical ADJ JJ amod xxxx True False thoracic
+None
+and and CCONJ CC cc xxx True True cervical
+None
+1st 1st ADJ JJ conj dxx False False cervical
+None
+thoracic thoracic NOUN NN pobj xxxx True False from
+None
+Contiene coordinación: 6th and 7th cervical nerves
+6th 6th ADJ JJ nmod dxx False False nerves
+None
+and and CCONJ CC cc xxx True True 6th
+None
+7th 7th ADJ JJ conj dxx False False 6th
+None
+cervical cervical ADJ JJ amod xxxx True False nerves
+None
+nerves nerve NOUN NNS pobj xxxx True False from
+None
+Contiene coordinación: pectoralis major and pectoralis minor muscles
+pectoralis pectoralis ADJ JJ amod xxxx True False major
+None
+major major ADJ JJ amod xxxx True False muscles
+None
+and and CCONJ CC cc xxx True True major
+None
+pectoralis pectoralis ADJ JJ conj xxxx True False major
+None
+minor minor ADJ JJ amod xxxx True False muscles
+None
+muscles muscle NOUN NNS dobj xxxx True False innervate
+None
+Contiene coordinación: anti-inflammatory and muscle relaxant medication
+anti anti ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False inflammatory
+None
+inflammatory inflammatory ADJ JJ amod xxxx True False medication
+None
+and and CCONJ CC cc xxx True True inflammatory
+None
+muscle muscle NOUN NN compound xxxx True False relaxant
+None
+relaxant relaxant NOUN NN compound xxxx True False medication
+None
+medication medication NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: circumscribed, non-encapsulated dermal tumor
+circumscribed circumscribed ADJ JJ amod xxxx True False tumor
+None
+, , PUNCT , punct , False False tumor
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False encapsulated
+None
+encapsulated encapsulated ADJ JJ amod xxxx True False tumor
+None
+dermal dermal ADJ JJ amod xxxx True False tumor
+None
+tumor tumor NOUN NN ROOT xxxx True False tumor
+None
+Contiene coordinación: fat saturated axial and coronal t2-weighted mr
+fat fat ADJ JJ amod xxx True False axial
+None
+saturated saturated ADJ JJ amod xxxx True False axial
+None
+axial axial ADJ JJ conj xxxx True False t1
+None
+and and CCONJ CC cc xxx True True axial
+None
+coronal coronal ADJ JJ conj xxxx True False axial
+None
+t2-weighted t2-weighte VERB VBN compound xd-xxxx False False images
+None
+mr mr PROPN NNP compound xx True False images
+None
+Contiene coordinación: untreated, pulmonary sequestration can result
+untreated untreated ADJ JJ advcl xxxx True False result
+None
+, , PUNCT , punct , False False result
+None
+pulmonary pulmonary ADJ JJ amod xxxx True False sequestration
+None
+sequestration sequestration NOUN NN nsubj xxxx True False result
+None
+can can VERB MD aux xxx True True result
+None
+result result VERB VB ROOT xxxx True False result
+None
+Contiene coordinación: medial and lateral collateral ligament complexes
+medial medial ADJ JJ amod xxxx True False complexes
+None
+and and CCONJ CC cc xxx True True medial
+None
+lateral lateral ADJ JJ conj xxxx True False medial
+None
+collateral collateral ADJ JJ conj xxxx True False medial
+None
+ligament ligament NOUN NN compound xxxx True False complexes
+None
+complexes complex NOUN NNS nsubj xxxx True False are
+None
+Contiene coordinación: aerobic, anaerobic and facultative organisms
+aerobic aerobic ADJ JJ amod xxxx True False organisms
+None
+, , PUNCT , punct , False False aerobic
+None
+anaerobic anaerobic ADJ JJ conj xxxx True False aerobic
+None
+and and CCONJ CC cc xxx True True anaerobic
+None
+facultative facultative ADJ JJ conj xxxx True False anaerobic
+None
+organisms organism NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: pronounced and facial nerve symptoms
+pronounced pronounce VERB VBN ROOT xxxx True False pronounced
+None
+and and CCONJ CC cc xxx True True pronounced
+None
+facial facial ADJ JJ amod xxxx True False symptoms
+None
+nerve nerve NOUN NN compound xxxx True False symptoms
+None
+symptoms symptom NOUN NNS nsubj xxxx True False were
+None
+Contiene coordinación: ovarian, gastric or colon malignancy
+ovarian ovarian ADJ JJ amod xxxx True False malignancy
+None
+, , PUNCT , punct , False False ovarian
+None
+gastric gastric ADJ JJ conj xxxx True False ovarian
+None
+or or CCONJ CC cc xx True True gastric
+None
+colon colon NOUN NN conj xxxx True False gastric
+None
+malignancy malignancy NOUN NN pobj xxxx True False from
+None
+Contiene coordinación: other significant medical or surgical history
+other other ADJ JJ amod xxxx True True history
+None
+significant significant ADJ JJ amod xxxx True False history
+None
+medical medical ADJ JJ amod xxxx True False history
+None
+or or CCONJ CC cc xx True True medical
+None
+surgical surgical ADJ JJ conj xxxx True False medical
+None
+history history NOUN NN dobj xxxx True False has
+None
+Contiene coordinación: progressive degenerative and inflammatory arthritis
+progressive progressive ADJ JJ amod xxxx True False arthritis
+None
+degenerative degenerative ADJ JJ amod xxxx True False arthritis
+None
+and and CCONJ CC cc xxx True True degenerative
+None
+inflammatory inflammatory ADJ JJ conj xxxx True False degenerative
+None
+arthritis arthritis NOUN NN dobj xxxx True False have
+None
+Contiene coordinación: humeral radial and humeral ulnar articulations
+humeral humeral ADJ JJ amod xxxx True False articulations
+None
+radial radial ADJ JJ amod xxxx True False ulnar
+None
+and and CCONJ CC cc xxx True True radial
+None
+humeral humeral ADJ JJ conj xxxx True False radial
+None
+ulnar ulnar ADJ JJ amod xxxx True False articulations
+None
+articulations articulation NOUN NNS pobj xxxx True False at
+None
+Contiene coordinación: vertical and horizontal fracture components
+vertical vertical ADJ JJ amod xxxx True False components
+None
+and and CCONJ CC cc xxx True True vertical
+None
+horizontal horizontal ADJ JJ conj xxxx True False vertical
+None
+fracture fracture NOUN NN compound xxxx True False components
+None
+components component NOUN NNS pobj xxxx True False with
+None
+Contiene coordinación: thoracic, abdominal and soft tissues
+thoracic thoracic ADJ JJ amod xxxx True False tissues
+None
+, , PUNCT , punct , False False thoracic
+None
+abdominal abdominal ADJ JJ conj xxxx True False thoracic
+None
+and and CCONJ CC cc xxx True True abdominal
+None
+soft soft ADJ JJ conj xxxx True False abdominal
+None
+tissues tissue NOUN NNS pobj xxxx True False to
+None
+Contiene coordinación: inflammatory and myofibroblastic spindle cells
+inflammatory inflammatory ADJ JJ amod xxxx True False cells
+None
+and and CCONJ CC cc xxx True True inflammatory
+None
+myofibroblastic myofibroblastic ADJ JJ conj xxxx True False inflammatory
+None
+spindle spindle NOUN NN conj xxxx True False inflammatory
+None
+cells cell NOUN NNS dobj xxxx True False contains
+None
+Contiene coordinación: varied and non-specific appearance
+varied varied ADJ JJ amod xxxx True False appearance
+None
+and and CCONJ CC cc xxx True True varied
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False specific
+None
+specific specific ADJ JJ amod xxxx True False appearance
+None
+appearance appearance NOUN NN dobj xxxx True False have
+None
+Contiene coordinación: portal and pulmonary arterial hypertension
+portal portal ADJ JJ pobj xxxx True False with
+None
+and and CCONJ CC cc xxx True True portal
+None
+pulmonary pulmonary ADJ JJ amod xxxx True False hypertension
+None
+arterial arterial ADJ JJ amod xxxx True False hypertension
+None
+hypertension hypertension NOUN NN conj xxxx True False portal
+None
+Contiene coordinación: benign and malignant hepatobiliary lesions
+benign benign ADJ JJ amod xxxx True False lesions
+None
+and and CCONJ CC cc xxx True True benign
+None
+malignant malignant ADJ JJ conj xxxx True False benign
+None
+hepatobiliary hepatobiliary ADJ JJ compound xxxx True False lesions
+None
+lesions lesion NOUN NNS pobj xxxx True False for
+None
+Contiene coordinación: contracted post-partum and intra-uterine contents
+contracted contract VERB VBN advmod xxxx True False partum
+None
+post post ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False partum
+None
+partum partum ADJ JJ dobj xxxx True False uterus
+None
+and and CCONJ CC cc xxx True True partum
+None
+intra intra ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False uterine
+None
+uterine uterine ADJ JJ amod xxxx True False contents
+None
+contents content NOUN NNS nsubj xxxx True False include
+None
+Contiene coordinación: comminuted, open mid-diaphyseal left tibial
+comminuted comminuted ADJ JJ amod xxxx True False diaphyseal
+None
+, , PUNCT , punct , False False diaphyseal
+None
+open open ADJ JJ amod xxxx True False diaphyseal
+None
+mid mid ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False diaphyseal
+None
+diaphyseal diaphyseal ADJ JJ conj xxxx True False extremity
+None
+left leave VERB VBN ROOT xxxx True False left
+None
+tibial tibial NOUN NN amod xxxx True False fractures
+None
+Contiene coordinación: malignant and benign adrenal masses
+malignant malignant ADJ JJ amod xxxx True False masses
+None
+and and CCONJ CC cc xxx True True malignant
+None
+benign benign ADJ JJ conj xxxx True False malignant
+None
+adrenal adrenal ADJ JJ amod xxxx True False masses
+None
+masses masse NOUN NNS pobj xxxx True False between
+None
+Contiene coordinación: non-distended, positive bowel sounds
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False distended
+None
+distended distended ADJ JJ amod xxxx True False sounds
+None
+, , PUNCT , punct , False False sounds
+None
+positive positive ADJ JJ amod xxxx True False sounds
+None
+bowel bowel NOUN NN compound xxxx True False sounds
+None
+sounds sound NOUN NNS ROOT xxxx True False sounds
+None
+Contiene coordinación: non-calcified, homogeneous right cardiophrenic angle cystic mass
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False calcified
+None
+calcified calcified ADJ JJ amod xxxx True False mass
+None
+, , PUNCT , punct , False False angle
+None
+homogeneous homogeneous ADJ JJ amod xxxx True False angle
+None
+right right ADJ JJ amod xxxx True False angle
+None
+cardiophrenic cardiophrenic PROPN NNP compound xxxx True False angle
+None
+angle angle PROPN NNP dep xxxx True False cystic
+None
+cystic cystic PROPN NNP compound xxxx True False mass
+None
+mass mass NOUN NN ROOT xxxx True False mass
+None
+Contiene coordinación: swelling or benign periosteal reaction
+swelling swell VERB VBG ccomp xxxx True False show
+None
+or or CCONJ CC cc xx True True swelling
+None
+benign benign ADJ JJ amod xxxx True False reaction
+None
+periosteal periosteal NOUN NN compound xxxx True False reaction
+None
+reaction reaction NOUN NN conj xxxx True False swelling
+None
+Contiene coordinación: surgical and radiologic intervention result
+surgical surgical ADJ JJ amod xxxx True False intervention
+None
+and and CCONJ CC cc xxx True True surgical
+None
+radiologic radiologic ADJ JJ conj xxxx True False surgical
+None
+intervention intervention NOUN NN nsubj xxxx True False result
+None
+result result NOUN NN ROOT xxxx True False result
+None
+Contiene coordinación: post-traumatic or post-operative marrow packing
+post post ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False traumatic
+None
+traumatic traumatic ADJ JJ amod xxxx True False packing
+None
+or or CCONJ CC dep xx True True -
+None
+post post ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False operative
+None
+operative operative ADJ JJ amod xxxx True False packing
+None
+marrow marrow NOUN NN compound xxxx True False packing
+None
+packing packing NOUN NN dobj xxxx True False include
+None
+Contiene coordinación: ipsilateral left and right numbness
+ipsilateral ipsilateral ADJ JJ amod xxxx True False left
+None
+left left ADJ JJ nsubjpass xxxx True False reproduced
+None
+and and CCONJ CC cc xxx True True left
+None
+right right ADJ JJ amod xxxx True False numbness
+None
+numbness numbness NOUN NN conj xxxx True False left
+None
+Contiene coordinación: alleviating or aggravating factors
+alleviating alleviate VERB VBG amod xxxx True False factors
+None
+or or CCONJ CC cc xx True True alleviating
+None
+aggravating aggravating ADJ JJ conj xxxx True False alleviating
+None
+factors factor NOUN NNS dobj xxxx True False cite
+None
+Contiene coordinación: circumscribed, heterogeneous anterior mediastinal mass containing
+circumscribed circumscribed ADJ JJ amod xxxx True False mass
+None
+, , PUNCT , punct , False False mass
+None
+heterogeneous heterogeneous ADJ JJ amod xxxx True False mass
+None
+anterior anterior ADJ JJ amod xxxx True False mass
+None
+mediastinal mediastinal ADJ JJ amod xxxx True False mass
+None
+mass mass NOUN NN ROOT xxxx True False mass
+None
+containing contain VERB VBG acl xxxx True False mass
+None
+Contiene coordinación: non-compliance and incomplete treatment
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False compliance
+None
+compliance compliance ADJ JJ amod xxxx True False treatment
+None
+and and CCONJ CC cc xxx True True compliance
+None
+incomplete incomplete ADJ JJ conj xxxx True False compliance
+None
+treatment treatment NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: chronic left and right s1 radiculopathies
+chronic chronic ADJ JJ amod xxxx True False left
+None
+left left ADJ JJ dobj xxxx True False showed
+None
+and and CCONJ CC cc xxx True True left
+None
+right right ADJ JJ amod xxxx True False radiculopathies
+None
+s1 s1 NOUN NN compound xd False False radiculopathies
+None
+radiculopathies radiculopathie NOUN NNS conj xxxx True False left
+None
+Contiene coordinación: chronic right upper quadrant and epigastric abdominal pain
+chronic chronic ADJ JJ amod xxxx True False pain
+None
+right right ADJ JJ amod xxxx True False quadrant
+None
+upper upper ADJ JJ amod xxxx True False quadrant
+None
+quadrant quadrant ADJ JJ nmod xxxx True False pain
+None
+and and CCONJ CC cc xxx True True quadrant
+None
+epigastric epigastric ADJ JJ conj xxxx True False quadrant
+None
+abdominal abdominal ADJ JJ amod xxxx True False pain
+None
+pain pain NOUN NN pobj xxxx True False with
+None
+Contiene coordinación: sonographic and computed tomographic appearance
+sonographic sonographic ADJ JJ ROOT xxxx True False sonographic
+None
+and and CCONJ CC cc xxx True True sonographic
+None
+computed compute VERB VBN conj xxxx True False sonographic
+None
+tomographic tomographic ADJ JJ amod xxxx True False appearance
+None
+appearance appearance NOUN NN dobj xxxx True False computed
+None
+Contiene coordinación: mobile irregular, coherent intraluminal mass
+mobile mobile ADJ JJ amod xxxx True False mass
+None
+irregular irregular ADJ JJ amod xxxx True False mass
+None
+, , PUNCT , punct , False False mass
+None
+coherent coherent ADJ JJ amod xxxx True False mass
+None
+intraluminal intraluminal ADJ JJ amod xxxx True False mass
+None
+mass mass NOUN NN nsubjpass xxxx True False seen
+None
+Contiene coordinación: right upper and right lower lung lobe
+right right ADJ JJ advmod xxxx True False upper
+None
+upper upper ADJ JJ amod xxxx True False lobe
+None
+and and CCONJ CC cc xxx True True upper
+None
+right right ADJ JJ advmod xxxx True False lower
+None
+lower low ADJ JJR conj xxxx True False upper
+None
+lung lung NOUN NN compound xxxx True False lobe
+None
+lobe lobe NOUN NN pobj xxxx True False in
+None
+Contiene coordinación: intact and clear, moist mucous membranes
+intact intact ADJ JJ amod xxxx True False at
+None
+and and CCONJ CC cc xxx True True intact
+None
+clear clear ADJ JJ amod xxxx True False membranes
+None
+, , PUNCT , punct , False False membranes
+None
+moist moist ADJ JJ amod xxxx True False membranes
+None
+mucous mucous ADJ JJ amod xxxx True False membranes
+None
+membranes membrane NOUN NNS conj xxxx True False intact
+None
+Contiene coordinación: non-exertional, right sided heart pain
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False exertional
+None
+exertional exertional ADJ JJ amod xxxx True False onset
+None
+, , PUNCT , punct , False False pain
+None
+right right ADJ JJ amod xxxx True False pain
+None
+sided sided ADJ JJ amod xxxx True False pain
+None
+heart heart NOUN NN compound xxxx True False pain
+None
+pain pain NOUN NN appos xxxx True False man
+None
+Contiene coordinación: obscured and inadequate double contrast views
+obscured obscured ADJ JJ amod xxxx True False views
+None
+and and CCONJ CC cc xxx True True obscured
+None
+inadequate inadequate ADJ JJ conj xxxx True False obscured
+None
+double double ADJ JJ amod xxxx True False views
+None
+contrast contrast NOUN NN compound xxxx True False views
+None
+views view NOUN NNS nsubjpass xxxx True False obtained
+None
+Contiene coordinación: posterior supine oblique, right lateral decubitus
+posterior posterior ADJ JJ amod xxxx True False decubitus
+None
+supine supine ADJ JJ amod xxxx True False decubitus
+None
+oblique oblique ADJ JJ amod xxxx True False decubitus
+None
+, , PUNCT , punct , False False decubitus
+None
+right right ADJ JJ amod xxxx True False decubitus
+None
+lateral lateral ADJ JJ amod xxxx True False decubitus
+None
+decubitus decubitus NOUN NN dobj xxxx True False left
+None
+Contiene coordinación: posterior supine oblique, right lateral decubitus
+posterior posterior ADJ JJ amod xxxx True False decubitus
+None
+supine supine ADJ JJ amod xxxx True False decubitus
+None
+oblique oblique ADJ JJ amod xxxx True False decubitus
+None
+, , PUNCT , punct , False False decubitus
+None
+right right ADJ JJ amod xxxx True False decubitus
+None
+lateral lateral ADJ JJ amod xxxx True False decubitus
+None
+decubitus decubitus NOUN NN dobj xxxx True False left
+None
+Contiene coordinación: general, closed head injury pts
+general general ADJ JJ amod xxxx True False in
+None
+, , PUNCT , punct , False False closed
+None
+closed closed ADJ JJ ccomp xxxx True False sent
+None
+head head NOUN NN compound xxxx True False pts
+None
+injury injury NOUN NN compound xxxx True False pts
+None
+pts pts NOUN NN dobj xxx True False closed
+None
+Contiene coordinación: -mva angular and translational instability
+- - ADJ JJ dep - False False mva
+None
+mva mva ADJ JJ amod xxx True False angular
+None
+angular angular ADJ JJ amod xxxx True False instability
+None
+and and CCONJ CC cc xxx True True angular
+None
+translational translational ADJ JJ conj xxxx True False angular
+None
+instability instability NOUN NN conj xxxx True False herniation
+None
+Contiene coordinación: lumbar and cervical strain
+lumbar lumbar ADJ JJ amod xxxx True False strain
+None
+and and CCONJ CC cc xxx True True lumbar
+None
+cervical cervical ADJ JJ conj xxxx True False lumbar
+None
+strain strain NOUN NN conj xxxx True False tear
+None
+Contiene coordinación: radiologic and physical findings
+radiologic radiologic ADJ JJ amod xxxx True False findings
+None
+and and CCONJ CC cc xxx True True radiologic
+None
+physical physical ADJ JJ conj xxxx True False radiologic
+None
+findings finding NOUN NNS nsubj xxxx True False support
+None
+Contiene coordinación: anterior and posterior longitudinal ligament instability
+anterior anterior ADJ JJ amod xxxx True False instability
+None
+and and CCONJ CC cc xxx True True anterior
+None
+posterior posterior ADJ JJ conj xxxx True False anterior
+None
+longitudinal longitudinal ADJ JJ amod xxxx True False instability
+None
+ligament ligament NOUN NN compound xxxx True False instability
+None
+instability instability NOUN NN dobj xxxx True False indicated
+None
+Contiene coordinación: left and right upper extremities
+left left ADJ JJ amod xxxx True False extremities
+None
+and and CCONJ CC cc xxx True True left
+None
+right right ADJ JJ conj xxxx True False left
+None
+upper upper ADJ JJ amod xxxx True False extremities
+None
+extremities extremity NOUN NNS pobj xxxx True False in
+None
+Contiene coordinación: intra-axial or extra-axial fluid collection
+intra intra ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False axial
+None
+axial axial ADJ JJ amod xxxx True False collection
+None
+or or CCONJ CC dep xx True True -
+None
+extra extra ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False axial
+None
+axial axial ADJ JJ amod xxxx True False collection
+None
+fluid fluid NOUN NN amod xxxx True False collection
+None
+collection collection NOUN NN conj xxxx True False shift
+None
+Contiene coordinación: progressive left upper and lower extremity weakness
+progressive progressive ADJ JJ amod xxxx True False weakness
+None
+left left ADJ JJ amod xxxx True False weakness
+None
+upper upper ADJ JJ amod xxxx True False weakness
+None
+and and CCONJ CC cc xxx True True upper
+None
+lower low ADJ JJR conj xxxx True False upper
+None
+extremity extremity NOUN NN compound xxxx True False weakness
+None
+weakness weakness NOUN NN pobj xxxx True False with
+None
+Contiene coordinación: pruritic red circular and annular plaques
+pruritic pruritic ADJ JJ amod xxxx True False plaques
+None
+red red ADJ JJ amod xxx True False plaques
+None
+circular circular ADJ JJ amod xxxx True False plaques
+None
+and and CCONJ CC cc xxx True True circular
+None
+annular annular ADJ JJ conj xxxx True False circular
+None
+plaques plaque NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: superior and inferior divisional symptoms
+superior superior ADJ JJ amod xxxx True False symptoms
+None
+and and CCONJ CC cc xxx True True superior
+None
+inferior inferior ADJ JJ conj xxxx True False superior
+None
+divisional divisional ADJ JJ amod xxxx True False symptoms
+None
+symptoms symptom NOUN NNS dobj xxxx True False have
+None
+Contiene coordinación: vascular, cardiac and hematologic disorders
+vascular vascular ADJ JJ amod xxxx True False disorders
+None
+, , PUNCT , punct , False False vascular
+None
+cardiac cardiac ADJ JJ conj xxxx True False vascular
+None
+and and CCONJ CC cc xxx True True cardiac
+None
+hematologic hematologic ADJ JJ conj xxxx True False cardiac
+None
+disorders disorder NOUN NNS pobj xxxx True False into
+None
+Contiene coordinación: absolute surgical and radiologic emergency
+absolute absolute ADJ JJ amod xxxx True False emergency
+None
+surgical surgical ADJ JJ amod xxxx True False emergency
+None
+and and CCONJ CC cc xxx True True surgical
+None
+radiologic radiologic ADJ JJ conj xxxx True False surgical
+None
+emergency emergency NOUN NN attr xxxx True False is
+None
+Contiene coordinación: second, duodenal obstruction
+second second ADJ JJ advmod xxxx True False occur
+None
+, , PUNCT , punct , False False occur
+None
+duodenal duodenal ADJ JJ amod xxxx True False obstruction
+None
+obstruction obstruction NOUN NN nsubj xxxx True False occur
+None
+Contiene coordinación: uncovertebral and facet joint degenerative changes
+uncovertebral uncovertebral ADJ JJ conj xxxx True False spurring
+None
+and and CCONJ CC cc xxx True True uncovertebral
+None
+facet facet ADJ JJ conj xxxx True False uncovertebral
+None
+joint joint ADJ JJ amod xxxx True False changes
+None
+degenerative degenerative ADJ JJ amod xxxx True False changes
+None
+changes change NOUN NNS oprd xxxx True False noted
+None
+Contiene coordinación: uncovertebral and facet joint degenerative changes
+uncovertebral uncovertebral ADJ JJ conj xxxx True False spurring
+None
+and and CCONJ CC cc xxx True True uncovertebral
+None
+facet facet ADJ JJ conj xxxx True False uncovertebral
+None
+joint joint ADJ JJ amod xxxx True False changes
+None
+degenerative degenerative ADJ JJ amod xxxx True False changes
+None
+changes change NOUN NNS oprd xxxx True False noted
+None
+Contiene coordinación: sitting and most other activities
+sitting sit VERB VBG conj xxxx True False walking
+None
+and and CCONJ CC cc xxx True True sitting
+None
+most most ADJ JJS amod xxxx True True activities
+None
+other other ADJ JJ amod xxxx True True activities
+None
+activities activity NOUN NNS conj xxxx True False sitting
+None
+Contiene coordinación: 8th cervical and 1st thoracic
+8th 8th ADJ JJ amod dxx False False thoracic
+None
+cervical cervical ADJ JJ amod xxxx True False thoracic
+None
+and and CCONJ CC cc xxx True True cervical
+None
+1st 1st ADJ JJ conj dxx False False cervical
+None
+thoracic thoracic NOUN NN pobj xxxx True False from
+None
+Contiene coordinación: 6th and 7th cervical nerves
+6th 6th ADJ JJ nmod dxx False False nerves
+None
+and and CCONJ CC cc xxx True True 6th
+None
+7th 7th ADJ JJ conj dxx False False 6th
+None
+cervical cervical ADJ JJ amod xxxx True False nerves
+None
+nerves nerve NOUN NNS pobj xxxx True False from
+None
+Contiene coordinación: pectoralis major and pectoralis minor muscles
+pectoralis pectoralis ADJ JJ amod xxxx True False major
+None
+major major ADJ JJ amod xxxx True False muscles
+None
+and and CCONJ CC cc xxx True True major
+None
+pectoralis pectoralis ADJ JJ conj xxxx True False major
+None
+minor minor ADJ JJ amod xxxx True False muscles
+None
+muscles muscle NOUN NNS dobj xxxx True False innervate
+None
+Contiene coordinación: anti-inflammatory and muscle relaxant medication
+anti anti ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False inflammatory
+None
+inflammatory inflammatory ADJ JJ amod xxxx True False medication
+None
+and and CCONJ CC cc xxx True True inflammatory
+None
+muscle muscle NOUN NN compound xxxx True False relaxant
+None
+relaxant relaxant NOUN NN compound xxxx True False medication
+None
+medication medication NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: normal or low pressure environment
+normal normal ADJ JJ amod xxxx True False environment
+None
+or or CCONJ CC cc xx True True normal
+None
+low low ADJ JJ conj xxx True False normal
+None
+pressure pressure NOUN NN compound xxxx True False environment
+None
+environment environment NOUN NN pobj xxxx True False to
+None
+Contiene coordinación: increasing inspiratory and expiratory stridor
+increasing increase VERB VBG amod xxxx True False stridor
+None
+inspiratory inspiratory ADJ JJ amod xxxx True False stridor
+None
+and and CCONJ CC cc xxx True True inspiratory
+None
+expiratory expiratory ADJ JJ conj xxxx True False inspiratory
+None
+stridor stridor PROPN NNP pobj xxxx True False of
+None
+Contiene coordinación: distal common and proximal internal and external carotid arteries
+distal distal ADJ JJ amod xxxx True False arteries
+None
+common common ADJ JJ amod xxxx True False arteries
+None
+and and CCONJ CC cc xxx True True common
+None
+proximal proximal ADJ JJ conj xxxx True False common
+None
+internal internal ADJ JJ amod xxxx True False arteries
+None
+and and CCONJ CC cc xxx True True internal
+None
+external external ADJ JJ conj xxxx True False internal
+None
+carotid carotid ADJ JJ amod xxxx True False arteries
+None
+arteries artery NOUN NNS dobj xxxx True False enveloping
+None
+Contiene coordinación: general, focal bladder wall thickening can
+general general ADJ JJ amod xxxx True False thickening
+None
+, , PUNCT , punct , False False thickening
+None
+focal focal ADJ JJ amod xxxx True False thickening
+None
+bladder bladder NOUN NN compound xxxx True False thickening
+None
+wall wall NOUN NN compound xxxx True False thickening
+None
+thickening thickening NOUN NN pobj xxxx True False in
+None
+can can VERB MD aux xxx True True seen
+None
+Contiene coordinación: mediastinal, hilar and pulmonary parenchyma vasculature appear
+mediastinal mediastinal ADJ JJ amod xxxx True False vasculature
+None
+, , PUNCT , punct , False False mediastinal
+None
+hilar hilar ADJ JJ conj xxxx True False mediastinal
+None
+and and CCONJ CC cc xxx True True hilar
+None
+pulmonary pulmonary ADJ JJ conj xxxx True False hilar
+None
+parenchyma parenchyma NOUN NN compound xxxx True False vasculature
+None
+vasculature vasculature NOUN NN nsubj xxxx True False appear
+None
+appear appear VERB VBP ROOT xxxx True False appear
+None
+Contiene coordinación: fragile, abnormal blood vessels can develop and leak
+fragile fragile ADJ JJ amod xxxx True False develop
+None
+, , PUNCT , punct , False False develop
+None
+abnormal abnormal ADJ JJ amod xxxx True False vessels
+None
+blood blood NOUN NN compound xxxx True False vessels
+None
+vessels vessel NOUN NNS nsubj xxxx True False develop
+None
+can can VERB MD aux xxx True True develop
+None
+develop develop VERB VB ROOT xxxx True False develop
+None
+and and CCONJ CC cc xxx True True develop
+None
+leak leak VERB VB conj xxxx True False develop
+None
+Contiene coordinación: symmetrical sensory and motor
+symmetrical symmetrical ADJ JJ amod xxxx True False polyneuropathy
+None
+sensory sensory ADJ JJ amod xxxx True False polyneuropathy
+None
+and and CCONJ CC cc xxx True True sensory
+None
+motor motor NOUN NN conj xxxx True False sensory
+None
+Contiene coordinación: worsening radiculopathic and myelopathic symptoms
+worsening worsen VERB VBG amod xxxx True False radiculopathic
+None
+radiculopathic radiculopathic ADJ JJ nsubjpass xxxx True False related
+None
+and and CCONJ CC cc xxx True True radiculopathic
+None
+myelopathic myelopathic ADJ JJ amod xxxx True False symptoms
+None
+symptoms symptom NOUN NNS conj xxxx True False radiculopathic
+None
+Contiene coordinación: dense, discrete sensory losses
+dense dense ADJ JJ amod xxxx True False losses
+None
+, , PUNCT , punct , False False losses
+None
+discrete discrete ADJ JJ amod xxxx True False losses
+None
+sensory sensory ADJ JJ amod xxxx True False losses
+None
+losses loss NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: small and large, bizarre tumor cells
+small small ADJ JJ amod xxxx True False cells
+None
+and and CCONJ CC cc xxx True True small
+None
+large large ADJ JJ conj xxxx True False small
+None
+, , PUNCT , punct , False False cells
+None
+bizarre bizarre ADJ JJ amod xxxx True False cells
+None
+tumor tumor NOUN NN compound xxxx True False cells
+None
+cells cell NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: large enhancing and aggressive left chest wall mass
+large large ADJ JJ amod xxxx True False enhancing
+None
+enhancing enhance VERB VBG appos xxxx True False ct
+None
+and and CCONJ CC cc xxx True True enhancing
+None
+aggressive aggressive ADJ JJ conj xxxx True False enhancing
+None
+left left ADJ JJ amod xxxx True False chest
+None
+chest chest NOUN NN compound xxxx True False wall
+None
+wall wall NOUN NN compound xxxx True False mass
+None
+mass mass PROPN NNP dobj xxxx True False enhancing
+None
+Contiene coordinación: multiple left peritesticular small, rounded and tubular structures
+multiple multiple ADJ JJ amod xxxx True False peritesticular
+None
+left left ADJ JJ amod xxxx True False peritesticular
+None
+peritesticular peritesticular ADJ JJ amod xxxx True False structures
+None
+small small ADJ JJ amod xxxx True False structures
+None
+, , PUNCT , punct , False False small
+None
+rounded rounded ADJ JJ amod xxxx True False structures
+None
+and and CCONJ CC cc xxx True True rounded
+None
+tubular tubular ADJ JJ conj xxxx True False rounded
+None
+structures structure NOUN NNS dobj xxxx True False demonstrate
+None
+Contiene coordinación: hilar vascular and ureteral surgical margins
+hilar hilar ADJ JJ amod xxxx True False margins
+None
+vascular vascular ADJ JJ amod xxxx True False margins
+None
+and and CCONJ CC cc xxx True True vascular
+None
+ureteral ureteral ADJ JJ conj xxxx True False vascular
+None
+surgical surgical ADJ JJ amod xxxx True False margins
+None
+margins margin NOUN NNS nsubj xxxx True False show
+None
+Contiene coordinación: clinical and radiologic outcome
+clinical clinical ADJ JJ amod xxxx True False outcome
+None
+and and CCONJ CC cc xxx True True clinical
+None
+radiologic radiologic ADJ JJ conj xxxx True False clinical
+None
+outcome outcome NOUN NN appos xxxx True False treatment
+None
+Contiene coordinación: left median and ulnar nerves
+left left ADJ JJ conj xxxx True False presence
+None
+median median ADJ JJ dobj xxxx True False left
+None
+and and CCONJ CC cc xxx True True median
+None
+ulnar ulnar ADJ JJ amod xxxx True False nerves
+None
+nerves nerve NOUN NNS conj xxxx True False median
+None
+Contiene coordinación: spurring and minor disc space narrowing
+spurring spur VERB VBG nsubjpass xxxx True False seen
+None
+and and CCONJ CC cc xxx True True spurring
+None
+minor minor ADJ JJ amod xxxx True False space
+None
+disc disc NOUN NN compound xxxx True False space
+None
+space space NOUN NN compound xxxx True False narrowing
+None
+narrowing narrowing NOUN NN conj xxxx True False spurring
+None
+Contiene coordinación: involving mid and lower lumbar spine levels
+involving involve VERB VBG prep xxxx True False narrowing
+None
+mid mid ADJ JJ amod xxx True False levels
+None
+and and CCONJ CC cc xxx True True mid
+None
+lower low ADJ JJR conj xxxx True False mid
+None
+lumbar lumbar NOUN NN compound xxxx True False spine
+None
+spine spine NOUN NN compound xxxx True False levels
+None
+levels level NOUN NNS dobj xxxx True False involving
+None
+Contiene coordinación: involving mid and lower lumbar spine levels
+involving involve VERB VBG prep xxxx True False narrowing
+None
+mid mid ADJ JJ amod xxx True False levels
+None
+and and CCONJ CC cc xxx True True mid
+None
+lower low ADJ JJR conj xxxx True False mid
+None
+lumbar lumbar NOUN NN compound xxxx True False spine
+None
+spine spine NOUN NN compound xxxx True False levels
+None
+levels level NOUN NNS dobj xxxx True False involving
+None
+Contiene coordinación: cervical and lumbar spine injuries
+cervical cervical ADJ JJ amod xxxx True False injuries
+None
+and and CCONJ CC cc xxx True True cervical
+None
+lumbar lumbar ADJ JJ conj xxxx True False cervical
+None
+spine spine NOUN NN compound xxxx True False injuries
+None
+injuries injury NOUN NNS pobj xxxx True False for
+None
+Contiene coordinación: soft, non-distended, non-tender. normal bowel sounds
+soft soft ADJ JJ amod xxxx True False tender
+None
+, , PUNCT , punct , False False tender
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False distended
+None
+distended distended ADJ JJ amod xxxx True False tender
+None
+, , PUNCT , punct , False False tender
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False tender
+None
+tender tender ADJ JJ appos xxxx True False abdomen
+None
+. . PUNCT . punct . False False abdomen
+None
+normal normal ADJ JJ amod xxxx True False sounds
+None
+bowel bowel NOUN NN compound xxxx True False sounds
+None
+sounds sound NOUN NNS ROOT xxxx True False sounds
+None
+Contiene coordinación: left median, ulnar and superficial radial nerves
+left left ADJ JJ conj xxxx True False latencies
+None
+median median ADJ JJ amod xxxx True False nerves
+None
+, , PUNCT , punct , False False median
+None
+ulnar ulnar ADJ JJ conj xxxx True False median
+None
+and and CCONJ CC cc xxx True True ulnar
+None
+superficial superficial ADJ JJ conj xxxx True False ulnar
+None
+radial radial ADJ JJ amod xxxx True False nerves
+None
+nerves nerve NOUN NNS oprd xxxx True False left
+None
+Contiene coordinación: significant coronary and peripheral artery disease
+significant significant ADJ JJ amod xxxx True False disease
+None
+coronary coronary ADJ JJ amod xxxx True False disease
+None
+and and CCONJ CC cc xxx True True coronary
+None
+peripheral peripheral ADJ JJ conj xxxx True False coronary
+None
+artery artery NOUN NN compound xxxx True False disease
+None
+disease disease NOUN NN pobj xxxx True False of
+None
+Contiene coordinación: patchy, bilateral airspace consolidations
+patchy patchy ADJ JJ amod xxxx True False consolidations
+None
+, , PUNCT , punct , False False consolidations
+None
+bilateral bilateral ADJ JJ amod xxxx True False airspace
+None
+airspace airspace NOUN NN compound xxxx True False consolidations
+None
+consolidations consolidation NOUN NNS pobj xxxx True False as
+None
+Contiene coordinación: clear, cardiac regular, soft and tender left lower quadrant
+clear clear ADJ JJ ccomp xxxx True False left
+None
+, , PUNCT , punct , False False left
+None
+cardiac cardiac ADJ JJ advmod xxxx True False regular
+None
+regular regular ADJ JJ meta xxxx True False ,
+None
+, , PUNCT , punct , False False regular
+None
+soft soft ADJ JJ conj xxxx True False regular
+None
+and and CCONJ CC cc xxx True True soft
+None
+tender tender ADJ JJ conj xxxx True False soft
+None
+left left ADJ JJ advcl xxxx True False extermities
+None
+lower low ADJ JJR amod xxxx True False quadrant
+None
+quadrant quadrant NOUN NN dobj xxxx True False left
+None
+Contiene coordinación: toxic, metabolic and genetic lesions may show
+toxic toxic ADJ JJ amod xxxx True False lesions
+None
+, , PUNCT , punct , False False toxic
+None
+metabolic metabolic ADJ JJ conj xxxx True False toxic
+None
+and and CCONJ CC cc xxx True True metabolic
+None
+genetic genetic ADJ JJ conj xxxx True False metabolic
+None
+lesions lesion NOUN NNS nsubj xxxx True False show
+None
+may may VERB MD aux xxx True True show
+None
+show show VERB VB ROOT xxxx True True show
+None
+Contiene coordinación: near complete or complete nondisplaced femoral neck fracture
+near near ADJ JJ amod xxxx True False complete
+None
+complete complete ADJ JJ amod xxxx True False fracture
+None
+or or CCONJ CC cc xx True True complete
+None
+complete complete ADJ JJ conj xxxx True False complete
+None
+nondisplaced nondisplaced ADJ JJ amod xxxx True False fracture
+None
+femoral femoral ADJ JJ amod xxxx True False neck
+None
+neck neck NOUN NN compound xxxx True False fracture
+None
+fracture fracture NOUN NN pobj xxxx True False with
+None
+Contiene coordinación: recommended and balloon sinus dilation
+recommended recommend VERB VBN ROOT xxxx True False recommended
+None
+and and CCONJ CC cc xxx True True recommended
+None
+balloon balloon NOUN NN compound xxxx True False sinus
+None
+sinus sinus NOUN NN compound xxxx True False dilation
+None
+dilation dilation NOUN NN nsubjpass xxxx True False discussed
+None
+Contiene coordinación: intermittent non-bilious, non-bloody emesis
+intermittent intermittent ADJ JJ amod xxxx True False emesis
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False bilious
+None
+bilious bilious ADJ JJ amod xxxx True False emesis
+None
+, , PUNCT , dep , False False non
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False bloody
+None
+bloody bloody ADJ JJ amod xxxx True False emesis
+None
+emesis emesis NOUN NN conj xxxx True False nausea
+None
+Contiene coordinación: gross and microscopic, urinary tract infections
+gross gross ADJ JJ amod xxxx True False infections
+None
+and and CCONJ CC cc xxx True True gross
+None
+microscopic microscopic ADJ JJ conj xxxx True False gross
+None
+, , PUNCT , punct , False False infections
+None
+urinary urinary ADJ JJ amod xxxx True False tract
+None
+tract tract NOUN NN compound xxxx True False infections
+None
+infections infection NOUN NNS appos xxxx True False hematuria
+None
+Contiene coordinación: lateral eighth and ninth rib fractures
+lateral lateral ADJ JJ amod xxxx True False fractures
+None
+eighth eighth ADJ JJ amod xxxx True False fractures
+None
+and and CCONJ CC cc xxx True True eighth
+None
+ninth ninth ADJ JJ conj xxxx True False eighth
+None
+rib rib NOUN NN compound xxx True False fractures
+None
+fractures fracture NOUN NNS ROOT xxxx True False fractures
+None
+Contiene coordinación: normal aging and male gender put
+normal normal ADJ JJ amod xxxx True False gender
+None
+aging age VERB VBG amod xxxx True False gender
+None
+and and CCONJ CC cc xxx True True aging
+None
+male male ADJ JJ conj xxxx True False aging
+None
+gender gender NOUN NN pobj xxxx True False to
+None
+put put VERB VBN ROOT xxx True True put
+None
+Contiene coordinación: paraesophageal or rolling hiatal hernia
+paraesophageal paraesophageal ADJ JJ attr xxxx True False is
+None
+or or CCONJ CC cc xx True True paraesophageal
+None
+rolling roll VERB VBG amod xxxx True False hernia
+None
+hiatal hiatal ADJ JJ amod xxxx True False hernia
+None
+hernia hernia NOUN NN conj xxxx True False paraesophageal
+None
+Contiene coordinación: thoracic and abdominal compartments
+thoracic thoracic ADJ JJ amod xxxx True False compartments
+None
+and and CCONJ CC cc xxx True True thoracic
+None
+abdominal abdominal ADJ JJ conj xxxx True False thoracic
+None
+compartments compartment NOUN NNS dobj xxxx True False connects
+None
+Contiene coordinación: persistent and intense abdominal pressure
+persistent persistent ADJ JJ amod xxxx True False pressure
+None
+and and CCONJ CC cc xxx True True persistent
+None
+intense intense ADJ JJ conj xxxx True False persistent
+None
+abdominal abdominal ADJ JJ amod xxxx True False pressure
+None
+pressure pressure NOUN NN pobj xxxx True False by
+None
+Contiene coordinación: acidic or sour taste
+acidic acidic ADJ JJ amod xxxx True False taste
+None
+or or CCONJ CC cc xx True True acidic
+None
+sour sour ADJ JJ conj xxxx True False acidic
+None
+taste taste NOUN NN dobj xxxx True False describe
+None
+Contiene coordinación: uniform and symmetrical dilation
+uniform uniform ADJ JJ amod xxxx True False dilation
+None
+and and CCONJ CC cc xxx True True uniform
+None
+symmetrical symmetrical ADJ JJ conj xxxx True False uniform
+None
+dilation dilation NOUN NN attr xxxx True False is
+None
+Contiene coordinación: american gastrointestinal and endoscopic surgeons
+american american ADJ JJ amod xxxx True False surgeons
+None
+gastrointestinal gastrointestinal ADJ JJ amod xxxx True False surgeons
+None
+and and CCONJ CC cc xxx True True gastrointestinal
+None
+endoscopic endoscopic ADJ JJ conj xxxx True False gastrointestinal
+None
+surgeons surgeon NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: diagnostic and migration
+diagnostic diagnostic ADJ JJ acomp xxxx True False is
+None
+and and CCONJ CC cc xxx True True diagnostic
+None
+migration migration NOUN NN conj xxxx True False diagnostic
+None
+Contiene coordinación: surgical and electrodiagnostic findings
+surgical surgical ADJ JJ amod xxxx True False findings
+None
+and and CCONJ CC cc xxx True True surgical
+None
+electrodiagnostic electrodiagnostic ADJ JJ conj xxxx True False surgical
+None
+findings finding NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: difficulty standing, walking
+difficulty difficulty NOUN NN dobj xxxx True False having
+None
+standing stand VERB VBG acl xxxx True False difficulty
+None
+, , PUNCT , punct , False False standing
+None
+walking walk VERB VBG conj xxxx True False standing
+None
+Contiene coordinación: right lower and right middle lung collapse
+right right ADJ JJ advmod xxxx True False lower
+None
+lower low ADJ JJR amod xxxx True False collapse
+None
+and and CCONJ CC cc xxx True True lower
+None
+right right ADJ JJ conj xxxx True False lower
+None
+middle middle ADJ JJ amod xxxx True False lung
+None
+lung lung NOUN NN compound xxxx True False collapse
+None
+collapse collapse NOUN NN pobj xxxx True False in
+None
+Contiene coordinación: thick, non-hyalinized collagen bundles separated
+thick thick ADJ JJ amod xxxx True False bundles
+None
+, , PUNCT , punct , False False bundles
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False hyalinized
+None
+hyalinized hyalinized ADJ JJ amod xxxx True False bundles
+None
+collagen collagen NOUN NN compound xxxx True False bundles
+None
+bundles bundle NOUN NNS pobj xxxx True False with
+None
+separated separate VERB VBN acl xxxx True False bundles
+None
+Contiene coordinación: normal and injured lateral collateral ligaments
+normal normal ADJ JJ amod xxxx True False ligaments
+None
+and and CCONJ CC cc xxx True True normal
+None
+injured injured ADJ JJ conj xxxx True False normal
+None
+lateral lateral ADJ JJ amod xxxx True False ligaments
+None
+collateral collateral ADJ JJ amod xxxx True False ligaments
+None
+ligaments ligament NOUN NNS pobj xxxx True False of
+None
+Contiene coordinación: right renal and right adrenal artery embolization
+right right ADJ JJ advmod xxxx True False renal
+None
+renal renal ADJ JJ amod xxxx True False embolization
+None
+and and CCONJ CC cc xxx True True renal
+None
+right right ADJ JJ conj xxxx True False renal
+None
+adrenal adrenal ADJ JJ amod xxxx True False embolization
+None
+artery artery NOUN NN compound xxxx True False embolization
+None
+embolization embolization NOUN NN dobj xxxx True False underwent
+None
+Contiene coordinación: multi-infarct or ischemic vascular disease
+multi multi ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False infarct
+None
+infarct infarct ADJ JJ amod xxxx True False disease
+None
+or or CCONJ CC dep xx True True ischemic
+None
+ischemic ischemic ADJ JJ amod xxxx True False disease
+None
+vascular vascular ADJ JJ amod xxxx True False disease
+None
+disease disease NOUN NN pobj xxxx True False as
+None
+Contiene coordinación: reviewed prospective and retrospective studies
+reviewed review VERB VBN amod xxxx True False studies
+None
+prospective prospective ADJ JJ amod xxxx True False studies
+None
+and and CCONJ CC cc xxx True True prospective
+None
+retrospective retrospective ADJ JJ conj xxxx True False prospective
+None
+studies study NOUN NNS nsubj xxxx True False suggest
+None
+Contiene coordinación: primary and other secondary cerebral vasculitis
+primary primary ADJ JJ amod xxxx True False vasculitis
+None
+and and CCONJ CC cc xxx True True primary
+None
+other other ADJ JJ conj xxxx True True primary
+None
+secondary secondary ADJ JJ amod xxxx True False vasculitis
+None
+cerebral cerebral ADJ JJ amod xxxx True False vasculitis
+None
+vasculitis vasculitis NOUN NN pobj xxxx True False like
+None
+Contiene coordinación: smooth lobulated or irregular margins
+smooth smooth ADJ JJ amod xxxx True False margins
+None
+lobulated lobulated ADJ JJ amod xxxx True False margins
+None
+or or CCONJ CC cc xx True True lobulated
+None
+irregular irregular ADJ JJ conj xxxx True False lobulated
+None
+margins margin NOUN NNS pobj xxxx True False with
+None
+Contiene coordinación: leading diagnostic and surveillance modality
+leading lead VERB VBG amod xxxx True False modality
+None
+diagnostic diagnostic ADJ JJ amod xxxx True False modality
+None
+and and CCONJ CC cc xxx True True diagnostic
+None
+surveillance surveillance NOUN NN conj xxxx True False diagnostic
+None
+modality modality NOUN NN attr xxxx True False is
+None
+Contiene coordinación: adenoidectomy and bilateral pressure equalizer tube placement
+adenoidectomy adenoidectomy ADJ JJ pobj xxxx True False for
+None
+and and CCONJ CC cc xxx True True adenoidectomy
+None
+bilateral bilateral ADJ JJ amod xxxx True False pressure
+None
+pressure pressure NOUN NN compound xxxx True False equalizer
+None
+equalizer equalizer NOUN NN compound xxxx True False tube
+None
+tube tube NOUN NN compound xxxx True False placement
+None
+placement placement NOUN NN conj xxxx True False adenoidectomy
+None
+Contiene coordinación: non-specific abdominal and pelvic complaints
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False specific
+None
+specific specific ADJ JJ amod xxxx True False complaints
+None
+abdominal abdominal ADJ JJ amod xxxx True False complaints
+None
+and and CCONJ CC cc xxx True True abdominal
+None
+pelvic pelvic ADJ JJ conj xxxx True False abdominal
+None
+complaints complaint NOUN NNS pobj xxxx True False with
+None
+Contiene coordinación: axial, coronal and sagittal plane demonstrate
+axial axial ADJ JJ amod xxxx True False plane
+None
+, , PUNCT , punct , False False axial
+None
+coronal coronal ADJ JJ conj xxxx True False axial
+None
+and and CCONJ CC cc xxx True True coronal
+None
+sagittal sagittal ADJ JJ conj xxxx True False coronal
+None
+plane plane NOUN NN pobj xxxx True False in
+None
+demonstrate demonstrate VERB VBP ROOT xxxx True False demonstrate
+None
+Contiene coordinación: many cortical and juxtacortial lesions
+many many ADJ JJ amod xxxx True True lesions
+None
+cortical cortical ADJ JJ amod xxxx True False lesions
+None
+and and CCONJ CC cc xxx True True cortical
+None
+juxtacortial juxtacortial ADJ JJ conj xxxx True False cortical
+None
+lesions lesion NOUN NNS dobj xxxx True False detect
+None
+Contiene coordinación: non-specific, further investigation includes
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False specific
+None
+specific specific ADJ JJ acomp xxxx True False be
+None
+, , PUNCT , punct , False False includes
+None
+further further ADJ JJ amod xxxx True True investigation
+None
+investigation investigation NOUN NN nsubj xxxx True False includes
+None
+includes include VERB VBZ ROOT xxxx True False includes
+None
+Contiene coordinación: non-renal, non-splenic, non-gi origin
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False renal
+None
+renal renal ADJ JJ amod xxxx True False origin
+None
+, , PUNCT , dep , False False non
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False splenic
+None
+splenic splenic ADJ JJ dep xxxx True False ,
+None
+, , PUNCT , dep , False False non
+None
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False gi
+None
+gi gi ADJ JJ amod xx True False origin
+None
+origin origin NOUN NN dobj xxxx True False confirmed
+None
+Contiene coordinación: multi-sequence, multi-planar mri demonstrates
+multi multi ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False sequence
+None
+sequence sequence ADJ JJ amod xxxx True False mri
+None
+, , PUNCT , punct , False False mri
+None
+multi multi ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False planar
+None
+planar planar ADJ JJ amod xxxx True False mri
+None
+mri mri PROPN NNP nsubj xxx True False demonstrates
+None
+demonstrates demonstrate VERB VBZ ROOT xxxx True False demonstrates
+None
+Contiene coordinación: comminuted, intra-articular radial head fracture
+comminuted comminuted ADJ JJ amod xxxx True False head
+None
+, , PUNCT , punct , False False head
+None
+intra intra ADJ JJ dep xxxx True False -
+None
+- - ADJ JJ dep - False False articular
+None
+articular articular ADJ JJ amod xxxx True False head
+None
+radial radial ADJ JJ amod xxxx True False head
+None
+head head NOUN NN compound xxxx True False fracture
+None
+fracture fracture NOUN NN dobj xxxx True False demonstrate
+None
+Contiene coordinación: repetitive and strenuous work environment
+repetitive repetitive ADJ JJ amod xxxx True False environment
+None
+and and CCONJ CC cc xxx True True repetitive
+None
+strenuous strenuous ADJ JJ conj xxxx True False repetitive
+None
+work work NOUN NN compound xxxx True False environment
+None
+environment environment NOUN NN conj xxxx True False athletes
+None
+Contiene coordinación: increasing and altering loading biomechanics
+increasing increase VERB VBG advcl xxxx True False placing
+None
+and and CCONJ CC cc xxx True True increasing
+None
+altering alter VERB VBG conj xxxx True False increasing
+None
+loading load VERB VBG xcomp xxxx True False altering
+None
+biomechanics biomechanic NOUN NNS dobj xxxx True False loading
+None
+Contiene coordinación: degenerative and proliferative features
+degenerative degenerative ADJ JJ amod xxxx True False features
+None
+and and CCONJ CC cc xxx True True degenerative
+None
+proliferative proliferative ADJ JJ conj xxxx True False degenerative
+None
+features feature NOUN NNS dobj xxxx True False involve
+None
+Contiene coordinación: subacute and chronic setting
+subacute subacute ADJ JJ amod xxxx True False setting
+None
+and and CCONJ CC cc xxx True True subacute
+None
+chronic chronic ADJ JJ conj xxxx True False subacute
+None
+setting setting NOUN NN pobj xxxx True False in
+None
+Contiene coordinación: severe and disabling symptoms
+severe severe ADJ JJ amod xxxx True False symptoms
+None
+and and CCONJ CC cc xxx True True severe
+None
+disabling disable VERB VBG conj xxxx True False severe
+None
+symptoms symptom NOUN NNS pobj xxxx True False with
+None
+Contiene coordinación: large, central rupture may cause
+large large ADJ JJ amod xxxx True False rupture
+None
+, , PUNCT , punct , False False rupture
+None
+central central ADJ JJ amod xxxx True False rupture
+None
+rupture rupture NOUN NN nsubj xxxx True False cause
+None
+may may VERB MD aux xxx True True cause
+None
+cause cause VERB VB ROOT xxxx True False cause
+None
+Contiene coordinación: modest, transient benefit
+modest modest ADJ JJ amod xxxx True False benefit
+None
+, , PUNCT , punct , False False benefit
+None
+transient transient ADJ JJ amod xxxx True False benefit
+None
+benefit benefit NOUN NN dobj xxxx True False show
+None
+Contiene coordinación: small and measures
+small small ADJ JJ acomp xxxx True False is
+None
+and and CCONJ CC cc xxx True True is
+None
+measures measure NOUN NNS conj xxxx True False is
+None
+Contiene coordinación: asymmetric uncovertebral and facet joint degenerative changes
+asymmetric asymmetric ADJ JJ amod xxxx True False uncovertebral
+None
+uncovertebral uncovertebral ADJ JJ nmod xxxx True False changes
+None
+and and CCONJ CC cc xxx True True uncovertebral
+None
+facet facet ADJ JJ conj xxxx True False uncovertebral
+None
+joint joint ADJ JJ amod xxxx True False changes
+None
+degenerative degenerative ADJ JJ amod xxxx True False changes
+None
+changes change NOUN NNS pobj xxxx True False to
+None
+Contiene coordinación: asymmetric uncovertebral and facet joint degenerative changes
+asymmetric asymmetric ADJ JJ amod xxxx True False uncovertebral
+None
+uncovertebral uncovertebral ADJ JJ nmod xxxx True False changes
+None
+and and CCONJ CC cc xxx True True uncovertebral
+None
+facet facet ADJ JJ conj xxxx True False uncovertebral
+None
+joint joint ADJ JJ amod xxxx True False changes
+None
+degenerative degenerative ADJ JJ amod xxxx True False changes
+None
+changes change NOUN NNS pobj xxxx True False to
+None
+Contiene coordinación: normal left and right atrial size
+normal normal ADJ JJ amod xxxx True False size
+None
+left left ADJ JJ amod xxxx True False size
+None
+and and CCONJ CC cc xxx True True left
+None
+right right ADJ JJ amod xxxx True False size
+None
+atrial atrial ADJ JJ amod xxxx True False size
+None
+size size NOUN NN ROOT xxxx True False size
+None
+Contiene coordinación: non-radiating, mid-epigastric pain
+non non ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False radiating
+None
+radiating radiating ADJ JJ amod xxxx True False pain
+None
+, , PUNCT , punct , False False pain
+None
+mid mid ADJ JJ dep xxx True False -
+None
+- - ADJ JJ dep - False False epigastric
+None
+epigastric epigastric ADJ JJ amod xxxx True False pain
+None
+pain pain NOUN NN conj xxxx True False stabbing
+None
+
+Process finished with exit code 0
