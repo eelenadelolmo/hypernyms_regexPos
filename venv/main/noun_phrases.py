@@ -160,7 +160,7 @@ for token in doc:
 
 
 
-all = 'corpus/Medical/txt_all_short.txt'
+all = 'corpus/Medical/txt_all.txt'
 
 with open(all) as f:
     text = f.read().lower()
