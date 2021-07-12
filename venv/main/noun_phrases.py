@@ -160,7 +160,7 @@ for token in doc:
 
 
 
-all = 'corpus/Medical/txt_all.txt'
+all = 'corpus/Medical/txt_all_short.txt'
 
 with open(all) as f:
     text = f.read().lower()
@@ -245,7 +245,8 @@ for e in salida_np_jj:
     list_nn = list()
     root = None
 
-    reversed_e = e[::-1]
+    span_list = list(e)
+    reversed_e = span_list[::-1]
 
     for t in e:
 
@@ -267,7 +268,7 @@ for e in salida_np_jj:
             if t.pos_ == 'NOUN':
                 root_all_nns.append(t)
         if len(root_all_nns) <= 1:
-            root_more_specific = root_all_nns
+            root_all_nns = None
 
 
     if has_coord:
@@ -321,9 +322,9 @@ for e in salida_np_jj:
                     to_delete = t.text
                     to_add.append((e.text.replace(to_delete, "").replace('however', "").strip(), root))
                 else:
-                    if root_more_specific:
-                        to_add.append((e.text.replace('however', ""), root, root_more_specific))
-                    if not root_more_specific:
+                    if root_all_nns is not None and len(root_all_nns) > 1:
+                        to_add.append((e.text.replace('however', ""), root, root_all_nns))
+                    if root_all_nns is None or len(root_all_nns) <= 1:
                         to_add.append((e.text.replace('however', ""), root))
 
     for tup in to_add:
@@ -346,6 +347,6 @@ with open('corpus/Medical/txt_all_noun_phrases_plus_barePP.txt', 'w') as f_w:
 with open('corpus/Medical/txt_all_noun_phrases_adjectives.txt', 'w') as f_w:
     for tup in matches_clean_jj:
         if len(tup) == 3:
-            f_w.write('- ' + tup[0] + ' / ' + tup[1].text + ' / ' + " ".join([x.text for x in tup[2]]) + '\n')
+            f_w.write('- ' + tup[0] + ' / ' + tup[1].text + ' / ' + " ".join([x.text for x in tup[2][::-1]]) + '\n')
         if len(tup) == 2:
-            f_w.write('- ' + tup[0] + ' / ' + tup[1].text + ' / ' + '\n')
+            f_w.write('- ' + tup[0] + ' / ' + tup[1].text + '\n')
