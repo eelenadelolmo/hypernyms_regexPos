@@ -1,0 +1,23 @@
+I::-PRON-::PRON::PRP::nsubj::testing____am::be::AUX::VBP::aux::testing____only::only::ADV::RB::advmod::testing____testing::test::VERB::VBG::ccomp::tested____the::the::DET::DT::det::script____script::script::NOUN::NN::dobj::testing____with::with::ADP::IN::prep::testing____this::this::DET::DT::det::sentence____very::very::ADV::RB::advmod::short____short::short::ADJ::JJ::amod::sentence____sentence::sentence::NOUN::NN::pobj::with____,::,::PUNCT::,::punct::tested____advanced::advanced::ADJ::JJ::amod::searches____searches::search::NOUN::NNS::nsubjpass::tested____should::should::VERB::MD::aux::tested____be::be::AUX::VB::auxpass::tested____tested::test::VERB::VBN::ROOT::tested____with::with::ADP::IN::prep::tested____long::long::ADJ::JJ::amod::texts____texts::text::NOUN::NNS::pobj::with____or::or::CCONJ::CC::cc::texts____a::a::DET::DT::det::sentence____longer::long::ADJ::JJR::amod::sentence____sentence::sentence::NOUN::NN::conj::texts
+
+
+
+
+consulta = "(_pos::DET_)? ((_tag::RB_)? (_text::longer_|_text::long_|_text::short_))? _pos::NOUN_"
+
+((____|^)([^_]*?::){2}DET(::|____)[^_]*?)?(((____|^)([^_]*?::){3}RB(::|____)[^_]*?)?((____|^)([^_]*?::){0}longer(::|____)[^_]*?|(____|^)([^_]*?::){0}long(::|____)[^_]*?|(____|^)([^_]*?::){0}short(::|____)[^_]*?))?(____|^)([^_]*?::){2}NOUN(::|____)[^_]*?(____|$)
+
+encuentra:
+
+____the::the::DET::DT::det::script____script::script::NOUN::NN::dobj::testing____
+____this::this::DET::DT::det::sentence____very::very::ADV::RB::advmod::short____short::short::ADJ::JJ::amod::sentence____sentence::sentence::NOUN::NN::pobj::with____
+____searches::search::NOUN::NNS::nsubjpass::tested____
+____long::long::ADJ::JJ::amod::texts____texts::text::NOUN::NNS::pobj::with____
+____a::a::DET::DT::det::sentence____longer::long::ADJ::JJR::amod::sentence____sentence::sentence::NOUN::NN::conj::texts
+
+
+
+
+consulta = "(_pos::DET_)? ((_tag::RB_)? (_text::long(er)?_|_text::short_))? _pos::NOUN_"
+
+((____|^)([^_]*?::){2}DET(::|____)[^_]*?)?(((____|^)([^_]*?::){3}RB(::|____)[^_]*?)?((____|^)([^_]*?::){0}long(er)?(::|____)[^_]*?|(____|^)([^_]*?::){0}short(::|____)[^_]*?))?(____|^)([^_]*?::){2}NOUN(::|____)[^_]*?(____|$)
